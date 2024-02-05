@@ -1,0 +1,189 @@
+[
+  {
+    "baggageInfoList": [
+      {
+        "segmentList": [
+          {
+            "dCityCode": "TYO",
+            "dCityName": "Tokyo",
+            "aCityCode": "SIN",
+            "aCityName": "Singapore",
+            "puIndex": 0,
+            "segmentNo": 1,
+            "sequenceNo": 1
+          }
+        ],
+        "checkedNote": "Tokyo-Singapore: Adult tickets: 30kg per person;",
+        "checkedFormatted": {
+          "sequenceNote": null,
+          "adultDetail": {
+            "description": "Total dimensions (length + width + height) of each piece cannot exceed 158CM.",
+            "weightAndPieceDesc": "30 kg per person",
+            "weight": 30,
+            "piece": -1
+          },
+          "childDetail": null,
+          "infantDetail": null
+        },
+        "handNote": "Tokyo-Singapore: Adult: 1 piece(s), 7kg each per person;",
+        "handFormatted": {
+          "sequenceNote": null,
+          "adultDetail": {
+            "description": "Total dimensions (length + width + height) of each piece cannot exceed 115CM.",
+            "weightAndPieceDesc": "1 piece(s) per person, 7 kg each piece",
+            "weight": 7,
+            "piece": 1
+          },
+          "childDetail": null,
+          "infantDetail": null
+        }
+      }
+    ],
+    "flagInfoList": [
+      {
+        "flag": "TicketDescription",
+        "note": null,
+        "description": "Once payment is confirmed, tickets will be issued within 2 hours.",
+        "preferential": null
+      },
+      {
+        "flag": "FlexibleChange",
+        "note": null,
+        "description": "Make 1 flight change without processing fees",
+        "preferential": false
+      }
+    ],
+    "flagInfoIndexList": [
+      {
+        "flag": "Baggage",
+        "note": "1",
+        "description": "Includes checked baggage",
+        "preferential": true
+      },
+      {
+        "flag": "CancelFee",
+        "note": null,
+        "description": "Cancellation Fee: from $477",
+        "preferential": true
+      },
+      {
+        "flag": "CanBuyBaggage",
+        "note": null,
+        "description": "",
+        "preferential": null
+      },
+      {
+        "flag": "FlexibleChange",
+        "note": null,
+        "description": "Make 1 flight change without processing fees",
+        "preferential": false
+      },
+      {
+        "flag": "CancelFeeNote",
+        "note": null,
+        "description": "From $477",
+        "preferential": true
+      },
+      {
+        "flag": "ChangeFeeNote",
+        "note": null,
+        "description": "Make 1 flight change without processing fees",
+        "preferential": true
+      },
+      {
+        "flag": "BaggageNote",
+        "note": null,
+        "description": "Included",
+        "preferential": true
+      }
+    ],
+    "freeChangeTimes": 1,
+    "penaltyInfoList": [
+      {
+        "segmentList": [
+          {
+            "dCityCode": "TYO",
+            "dCityName": "Tokyo",
+            "aCityCode": "SIN",
+            "aCityName": "Singapore",
+            "puIndex": 0,
+            "segmentNo": 1,
+            "sequenceNo": 1
+          }
+        ],
+        "cancelInfo": {
+          "note": "$477.00 will be charged per adult/child/infant ticket for cancellations made before the departure of the first segment. $477.00 will be charged per adult/child/infant ticket for cancellations made after the departure of the first segment. For cancellations of partially used tickets, the ticket fare and tax of the used segment will be deducted. For cancellations, an additional $20.50 service fee will be charged by the ticket agency.",
+          "formatted": {
+            "adultList": [
+              {
+                "specialText": "$477",
+                "timeText": "Before departure",
+                "specialType": 0
+              },
+              {
+                "specialText": "$477",
+                "timeText": "After departure",
+                "specialType": 0
+              }
+            ],
+            "childList": null,
+            "infantList": null,
+            "concurrentDescription": "For cancellations, an additional $20.50 service fee will be charged by the ticket agency. For cancellations of partially used tickets, the ticket fare and tax of the used segment will be deducted."
+          },
+          "originText": {
+            "adult": false,
+            "child": false,
+            "infant": false
+          },
+          "notAllowed": false,
+          "firstTimeChangeFreeNote": null
+        },
+        "changeInfo": {
+          "note": "$477.00 will be charged per adult/child/infant ticket for date changes within the same class made before the departure of the first segment. $477.00 will be charged per adult/child/infant ticket for date changes within the same class made after the departure of the first segment. When date change results in a flight ticket price difference, both date change fee and flight ticket price difference will be charged. For date changes, an additional $20.50 service fee will be charged by the ticket agency.",
+          "formatted": {
+            "adultList": [
+              {
+                "specialText": "$477",
+                "timeText": "Before departure",
+                "specialType": 0
+              },
+              {
+                "specialText": "$477",
+                "timeText": "After departure",
+                "specialType": 0
+              }
+            ],
+            "childList": null,
+            "infantList": null,
+            "concurrentDescription": "For date changes, an additional $20.50 service fee will be charged by the ticket agency. When date changes result in a difference in ticket price, this difference must be paid for. Once a ticket has been changed, the change service fee that has already been paid is non-refundable according to the airline's policies and regulations if any further changes are made."
+          },
+          "originText": {
+            "adult": false,
+            "child": false,
+            "infant": false
+          },
+          "notAllowed": false,
+          "firstTimeChangeFreeNote": null
+        },
+        "endorsementNote": "No endorsement.",
+        "specialNote": "",
+        "noShowCondition": "",
+        "flagInfoList": [
+          {
+            "flag": "RefundCoupon",
+            "note": null,
+            "description": "Due to the impact of COVID-19 worldwide, refunds will be processed in accordance with the latest airline policies. Please note that at the airline's discretion, refunds may be made in the form of airline vouchers. The final decision regarding the refund method will be made by the airline. Some airlines may charge processing fees for flight changes or cancellations made due to flight schedule changes. Actual fees charged will depend on the final decision by the airline.",
+            "preferential": null
+          },
+          {
+            "flag": "FlexibleChange",
+            "note": null,
+            "description": "If date changes are made between 00:00, December 2, 2021 and 22:55, December 21, 2021, and the new departure date is after December 3, 2021 and before March 31, 2022, no service fee will be charged for the first 1 change(s) within the same class. Any price difference will be charged by the airline. Departure and arrival points cannot be changed. Endorsements to other airlines not permitted. For date changes due to involuntary flight changes, please refer to the airline's policies and regulations.",
+            "preferential": null
+          }
+        ],
+        "partialUseChangeInfo": null
+      }
+    ]
+  }
+]

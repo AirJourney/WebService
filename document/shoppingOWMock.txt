@@ -1,0 +1,1896 @@
+request:{"locale":"TW","language":"tc","flightType":"OW","currency":"HKD","passenger":[{"name":"Adult","count":1,"flag":"ADT"},{"name":"Children","count":1,"flag":"CHD"},{"name":"Infants","count":1,"flag":"INF"}],"tripSearch":[{"depart":"SHA","arrive":"TYO","departTime":"2023-05-28"}],"cabinType": "B"},
+response:{
+    "sessionid": "1683370954587bRTPh0896j",
+    "status": true,
+    "msg": "",
+    "content": [
+        {
+            "shoppingId": "84239e05a9ae4227bafbf1a132df3b7d",
+            "redisCode": "0528SHATYO",
+            "redisSchema": "1305-0250-NH-920-B&J-PVG-T2-NRT-T1-2-789|1904.00-59.87-1428.00-48.07-1428.00-48.07",
+            "segmentSchema": "1305-0250-NH-920-B&J-PVG-T2-NRT-T1-2-789",
+            "currency": "HKD",
+            "flightGroupInfoList": [
+                {
+                    "flightId": "9de1774aeb814b44a19950b16ca3f830",
+                    "arriveMultCityName": "Tokyo",
+                    "arriveDateTimeFormat": "2023-05-28T15:55:00+08:00",
+                    "departDateTimeFormat": "2023-05-28T13:05:00+08:00",
+                    "departMultCityName": "Shanghai",
+                    "flightTripTitle": "string;",
+                    "duration": {
+                        "h": "02",
+                        "m": "50"
+                    },
+                    "dDateFormat": "string;",
+                    "flightSegments": [
+                        {
+                            "segmentId": "9931aa4dd18b42b180d4bdf28f393aad",
+                            "aDateTime": "2023-05-28T15:55:00+08:00",
+                            "dDateTime": "2023-05-28T13:05:00+08:00",
+                            "dCityInfo": {
+                                "code": "PVG",
+                                "name": "Shanghai"
+                            },
+                            "aCityInfo": {
+                                "code": "NRT",
+                                "name": "Tokyo"
+                            },
+                            "dPortInfo": {
+                                "code": "PVG",
+                                "name": " Pu Dong",
+                                "terminal": "T2"
+                            },
+                            "aPortInfo": {
+                                "code": "NRT",
+                                "name": " Narita",
+                                "terminal": "T1"
+                            },
+                            "acrossDays": 0,
+                            "airlineInfo": {
+                                "code": "NH",
+                                "name": "NH",
+                                "isLCC": false
+                            },
+                            "craftInfo": {
+                                "name": "Boeing 787-9 pax",
+                                "minSeats": null,
+                                "maxSeats": null,
+                                "widthLevel": "",
+                                "craftType": "B789"
+                            },
+                            "cabinClass": "Business",
+                            "subClass": "J",
+                            "durationInfo": {
+                                "hour": "02",
+                                "min": "50"
+                            },
+                            "transferDurationInfo": null,
+                            "stopInfoList": [],
+                            "flightNo": "920",
+                            "segmentNo": 1
+                        }
+                    ]
+                }
+            ],
+            "policyDetailInfo": {
+                "priceId": "b4f76a342b0644df97f627f349f5eb5e",
+                "avgPrice": "16789",
+                "totalPrice": "50369",
+                "ticketDeadlineType": 1,
+                "adultPrice": {
+                    "salePrice": "19508",
+                    "tax": "613"
+                },
+                "childPrice": {
+                    "salePrice": "14632",
+                    "tax": "492"
+                },
+                "infantPrice": {
+                    "salePrice": "14632",
+                    "tax": "492"
+                },
+                "limitInfo": {
+                    "adultLimitInfo": null,
+                    "childLimitInfo": null,
+                    "availableSeatCount": 0,
+                    "nationalityLimit": [],
+                    "nationalityLimitType": 0
+                },
+                "productNoticeInfo": null,
+                "noticeInfoList": [],
+                "ticketDeadlineInfo": null
+            },
+            "policyInfo": {
+                "baggageInfoList": [
+                    {
+                        "checkedNote": "Adult tickets: 60kg per person;",
+                        "checkedFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 158CM.",
+                                "weightAndPieceDesc": "30 kg per person",
+                                "weight": 30,
+                                "piece": 2
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        },
+                        "handNote": "Adult: 1 piece(s), 7kg each per person;",
+                        "handFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 115CM.",
+                                "weightAndPieceDesc": "1 piece(s) per person, 7 kg each piece",
+                                "weight": 7,
+                                "piece": 1
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        }
+                    }
+                ],
+                "penaltyInfoList": [
+                    {
+                        "cancelInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "5030",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "5030",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "3781",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3781",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "3781",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3781",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "changeInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "3354",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3354",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "2521",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2521",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "2521",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2521",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "endorsementNote": "No endorsement.",
+                        "specialNote": "",
+                        "noShowCondition": "",
+                        "flagInfoList": [],
+                        "partialUseChangeInfo": null
+                    }
+                ]
+            },
+            "deeplink": "https://www.skywingtrip.com/book?landingPage=booking&locale=TW&mktportal=skyscanner&language=tc&currency=HKD&shoppingId=84239e05a9ae4227bafbf1a132df3b7d&deepLinkTokenId=20230419V1&campaign=flight&redisCode=0528SHATYO&segmentSchema=1305-0250-NH-920-B&J-PVG-T2-NRT-T1-2-789&tripType=OW&cabinType=B&departCity=SHA&arriveCity=TYO&departTime=20230528&returnTime=&adult=1&children=1&infant=1"
+        },
+        {
+            "shoppingId": "e4a237bae3044663860ec04957b5a20e",
+            "redisCode": "0528SHATYO",
+            "redisSchema": "1335-0250-NH-970-B&J-SHA-T1-HND-T3-2-788|1904.00-59.87-1428.00-48.07-1428.00-48.07",
+            "segmentSchema": "1335-0250-NH-970-B&J-SHA-T1-HND-T3-2-788",
+            "currency": "HKD",
+            "flightGroupInfoList": [
+                {
+                    "flightId": "8cfa72d74a114e95a7541722d8f81f1d",
+                    "arriveMultCityName": "Tokyo",
+                    "arriveDateTimeFormat": "2023-05-28T16:25:00+08:00",
+                    "departDateTimeFormat": "2023-05-28T13:35:00+08:00",
+                    "departMultCityName": "Shanghai",
+                    "flightTripTitle": "string;",
+                    "duration": {
+                        "h": "02",
+                        "m": "50"
+                    },
+                    "dDateFormat": "string;",
+                    "flightSegments": [
+                        {
+                            "segmentId": "fdc23712d2214aa98b1f43b748f8fe9c",
+                            "aDateTime": "2023-05-28T16:25:00+08:00",
+                            "dDateTime": "2023-05-28T13:35:00+08:00",
+                            "dCityInfo": {
+                                "code": "SHA",
+                                "name": "Shanghai"
+                            },
+                            "aCityInfo": {
+                                "code": "HND",
+                                "name": "Tokyo"
+                            },
+                            "dPortInfo": {
+                                "code": "SHA",
+                                "name": " Hongqiao",
+                                "terminal": "T1"
+                            },
+                            "aPortInfo": {
+                                "code": "HND",
+                                "name": " Haneda",
+                                "terminal": "T3"
+                            },
+                            "acrossDays": 0,
+                            "airlineInfo": {
+                                "code": "NH",
+                                "name": "NH",
+                                "isLCC": false
+                            },
+                            "craftInfo": {
+                                "name": "Boeing 787-8 pax",
+                                "minSeats": null,
+                                "maxSeats": null,
+                                "widthLevel": "",
+                                "craftType": "B788"
+                            },
+                            "cabinClass": "Business",
+                            "subClass": "J",
+                            "durationInfo": {
+                                "hour": "02",
+                                "min": "50"
+                            },
+                            "transferDurationInfo": null,
+                            "stopInfoList": [],
+                            "flightNo": "970",
+                            "segmentNo": 1
+                        }
+                    ]
+                }
+            ],
+            "policyDetailInfo": {
+                "priceId": "4ac1779c4efb4e5bb80c0565e4f69178",
+                "avgPrice": "16789",
+                "totalPrice": "50369",
+                "ticketDeadlineType": 1,
+                "adultPrice": {
+                    "salePrice": "19508",
+                    "tax": "613"
+                },
+                "childPrice": {
+                    "salePrice": "14632",
+                    "tax": "492"
+                },
+                "infantPrice": {
+                    "salePrice": "14632",
+                    "tax": "492"
+                },
+                "limitInfo": {
+                    "adultLimitInfo": null,
+                    "childLimitInfo": null,
+                    "availableSeatCount": 0,
+                    "nationalityLimit": [],
+                    "nationalityLimitType": 0
+                },
+                "productNoticeInfo": null,
+                "noticeInfoList": [],
+                "ticketDeadlineInfo": null
+            },
+            "policyInfo": {
+                "baggageInfoList": [
+                    {
+                        "checkedNote": "Adult tickets: 60kg per person;",
+                        "checkedFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 158CM.",
+                                "weightAndPieceDesc": "30 kg per person",
+                                "weight": 30,
+                                "piece": 2
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        },
+                        "handNote": "Adult: 1 piece(s), 7kg each per person;",
+                        "handFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 115CM.",
+                                "weightAndPieceDesc": "1 piece(s) per person, 7 kg each piece",
+                                "weight": 7,
+                                "piece": 1
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        }
+                    }
+                ],
+                "penaltyInfoList": [
+                    {
+                        "cancelInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "5030",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "5030",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "3781",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3781",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "3781",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3781",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "changeInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "3354",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3354",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "2521",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2521",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "2521",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2521",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "endorsementNote": "No endorsement.",
+                        "specialNote": "",
+                        "noShowCondition": "",
+                        "flagInfoList": [],
+                        "partialUseChangeInfo": null
+                    }
+                ]
+            },
+            "deeplink": "https://www.skywingtrip.com/book?landingPage=booking&locale=TW&mktportal=skyscanner&language=tc&currency=HKD&shoppingId=e4a237bae3044663860ec04957b5a20e&deepLinkTokenId=20230419V1&campaign=flight&redisCode=0528SHATYO&segmentSchema=1335-0250-NH-970-B&J-SHA-T1-HND-T3-2-788&tripType=OW&cabinType=B&departCity=SHA&arriveCity=TYO&departTime=20230528&returnTime=&adult=1&children=1&infant=1"
+        },
+        {
+            "shoppingId": "87f14e32186048d485498e53f4cb7a28",
+            "redisCode": "0528SHATYO",
+            "redisSchema": "1605-0305-JL-86-B&D-PVG-T1-HND-T3-3-767|1102.00-59.11-826.00-47.31-826.00-47.31",
+            "segmentSchema": "1605-0305-JL-86-B&D-PVG-T1-HND-T3-3-767",
+            "currency": "HKD",
+            "flightGroupInfoList": [
+                {
+                    "flightId": "b92a1edd2531415b98b2cac9d72fd3ea",
+                    "arriveMultCityName": "Tokyo",
+                    "arriveDateTimeFormat": "2023-05-28T19:10:00+08:00",
+                    "departDateTimeFormat": "2023-05-28T16:05:00+08:00",
+                    "departMultCityName": "Shanghai",
+                    "flightTripTitle": "string;",
+                    "duration": {
+                        "h": "03",
+                        "m": "05"
+                    },
+                    "dDateFormat": "string;",
+                    "flightSegments": [
+                        {
+                            "segmentId": "1ccd79f2e49f4d62bc72afc8d1790cf8",
+                            "aDateTime": "2023-05-28T19:10:00+08:00",
+                            "dDateTime": "2023-05-28T16:05:00+08:00",
+                            "dCityInfo": {
+                                "code": "PVG",
+                                "name": "Shanghai"
+                            },
+                            "aCityInfo": {
+                                "code": "HND",
+                                "name": "Tokyo"
+                            },
+                            "dPortInfo": {
+                                "code": "PVG",
+                                "name": " Pu Dong",
+                                "terminal": "T1"
+                            },
+                            "aPortInfo": {
+                                "code": "HND",
+                                "name": " Haneda",
+                                "terminal": "T3"
+                            },
+                            "acrossDays": 0,
+                            "airlineInfo": {
+                                "code": "JL",
+                                "name": "JL",
+                                "isLCC": false
+                            },
+                            "craftInfo": {
+                                "name": "Boeing 767 all pax models",
+                                "minSeats": null,
+                                "maxSeats": null,
+                                "widthLevel": "",
+                                "craftType": "n/a"
+                            },
+                            "cabinClass": "Business",
+                            "subClass": "D",
+                            "durationInfo": {
+                                "hour": "03",
+                                "min": "05"
+                            },
+                            "transferDurationInfo": null,
+                            "stopInfoList": [],
+                            "flightNo": "86",
+                            "segmentNo": 1
+                        }
+                    ]
+                }
+            ],
+            "policyDetailInfo": {
+                "priceId": "793260ecc5144a8bbc102e4700aa9d5f",
+                "avgPrice": "9931",
+                "totalPrice": "29795",
+                "ticketDeadlineType": 1,
+                "adultPrice": {
+                    "salePrice": "11292",
+                    "tax": "606"
+                },
+                "childPrice": {
+                    "salePrice": "8464",
+                    "tax": "485"
+                },
+                "infantPrice": {
+                    "salePrice": "8464",
+                    "tax": "485"
+                },
+                "limitInfo": {
+                    "adultLimitInfo": null,
+                    "childLimitInfo": null,
+                    "availableSeatCount": 0,
+                    "nationalityLimit": [],
+                    "nationalityLimitType": 0
+                },
+                "productNoticeInfo": null,
+                "noticeInfoList": [],
+                "ticketDeadlineInfo": null
+            },
+            "policyInfo": {
+                "baggageInfoList": [
+                    {
+                        "checkedNote": "Adult tickets: 90kg per person;",
+                        "checkedFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 158CM.",
+                                "weightAndPieceDesc": "30 kg per person",
+                                "weight": 30,
+                                "piece": 3
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        },
+                        "handNote": "Adult: 1 piece(s), 7kg each per person;",
+                        "handFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 115CM.",
+                                "weightAndPieceDesc": "1 piece(s) per person, 7 kg each piece",
+                                "weight": 7,
+                                "piece": 1
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        }
+                    }
+                ],
+                "penaltyInfoList": [
+                    {
+                        "cancelInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "2975",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2975",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "2237",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2237",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "2237",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2237",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "changeInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "1983",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1983",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "1491",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1491",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "1491",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1491",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "endorsementNote": "No endorsement.",
+                        "specialNote": "",
+                        "noShowCondition": "",
+                        "flagInfoList": [],
+                        "partialUseChangeInfo": null
+                    }
+                ]
+            },
+            "deeplink": "https://www.skywingtrip.com/book?landingPage=booking&locale=TW&mktportal=skyscanner&language=tc&currency=HKD&shoppingId=87f14e32186048d485498e53f4cb7a28&deepLinkTokenId=20230419V1&campaign=flight&redisCode=0528SHATYO&segmentSchema=1605-0305-JL-86-B&D-PVG-T1-HND-T3-3-767&tripType=OW&cabinType=B&departCity=SHA&arriveCity=TYO&departTime=20230528&returnTime=&adult=1&children=1&infant=1"
+        },
+        {
+            "shoppingId": "bc1286cf713740f58d9affff466b7812",
+            "redisCode": "0528SHATYO",
+            "redisSchema": "0135-0255-NH-968-B&D-PVG-T2-HND-T3-2-788|1115.00-59.87-837.00-48.07-837.00-48.07",
+            "segmentSchema": "0135-0255-NH-968-B&D-PVG-T2-HND-T3-2-788",
+            "currency": "HKD",
+            "flightGroupInfoList": [
+                {
+                    "flightId": "2111413c0dd34642a457d99230dc118c",
+                    "arriveMultCityName": "Tokyo",
+                    "arriveDateTimeFormat": "2023-05-28T04:30:00+08:00",
+                    "departDateTimeFormat": "2023-05-28T01:35:00+08:00",
+                    "departMultCityName": "Shanghai",
+                    "flightTripTitle": "string;",
+                    "duration": {
+                        "h": "02",
+                        "m": "55"
+                    },
+                    "dDateFormat": "string;",
+                    "flightSegments": [
+                        {
+                            "segmentId": "fbae5d05dd2742e5b9f1429c7f17b8c9",
+                            "aDateTime": "2023-05-28T04:30:00+08:00",
+                            "dDateTime": "2023-05-28T01:35:00+08:00",
+                            "dCityInfo": {
+                                "code": "PVG",
+                                "name": "Shanghai"
+                            },
+                            "aCityInfo": {
+                                "code": "HND",
+                                "name": "Tokyo"
+                            },
+                            "dPortInfo": {
+                                "code": "PVG",
+                                "name": " Pu Dong",
+                                "terminal": "T2"
+                            },
+                            "aPortInfo": {
+                                "code": "HND",
+                                "name": " Haneda",
+                                "terminal": "T3"
+                            },
+                            "acrossDays": 0,
+                            "airlineInfo": {
+                                "code": "NH",
+                                "name": "NH",
+                                "isLCC": false
+                            },
+                            "craftInfo": {
+                                "name": "Boeing 787-8 pax",
+                                "minSeats": null,
+                                "maxSeats": null,
+                                "widthLevel": "",
+                                "craftType": "B788"
+                            },
+                            "cabinClass": "Business",
+                            "subClass": "D",
+                            "durationInfo": {
+                                "hour": "02",
+                                "min": "55"
+                            },
+                            "transferDurationInfo": null,
+                            "stopInfoList": [],
+                            "flightNo": "968",
+                            "segmentNo": 1
+                        }
+                    ]
+                }
+            ],
+            "policyDetailInfo": {
+                "priceId": "85a78fc0cf924027a7e68f22ddcc77f3",
+                "avgPrice": "10058",
+                "totalPrice": "30175",
+                "ticketDeadlineType": 1,
+                "adultPrice": {
+                    "salePrice": "11425",
+                    "tax": "613"
+                },
+                "childPrice": {
+                    "salePrice": "8576",
+                    "tax": "492"
+                },
+                "infantPrice": {
+                    "salePrice": "8576",
+                    "tax": "492"
+                },
+                "limitInfo": {
+                    "adultLimitInfo": null,
+                    "childLimitInfo": null,
+                    "availableSeatCount": 0,
+                    "nationalityLimit": [],
+                    "nationalityLimitType": 0
+                },
+                "productNoticeInfo": null,
+                "noticeInfoList": [],
+                "ticketDeadlineInfo": null
+            },
+            "policyInfo": {
+                "baggageInfoList": [
+                    {
+                        "checkedNote": "Adult tickets: 60kg per person;",
+                        "checkedFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 158CM.",
+                                "weightAndPieceDesc": "30 kg per person",
+                                "weight": 30,
+                                "piece": 2
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        },
+                        "handNote": "Adult: 1 piece(s), 7kg each per person;",
+                        "handFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 115CM.",
+                                "weightAndPieceDesc": "1 piece(s) per person, 7 kg each piece",
+                                "weight": 7,
+                                "piece": 1
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        }
+                    }
+                ],
+                "penaltyInfoList": [
+                    {
+                        "cancelInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "3010",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3010",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "2267",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2267",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "2267",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2267",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "changeInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "2006",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2006",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "1511",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1511",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "1511",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1511",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "endorsementNote": "No endorsement.",
+                        "specialNote": "",
+                        "noShowCondition": "",
+                        "flagInfoList": [],
+                        "partialUseChangeInfo": null
+                    }
+                ]
+            },
+            "deeplink": "https://www.skywingtrip.com/book?landingPage=booking&locale=TW&mktportal=skyscanner&language=tc&currency=HKD&shoppingId=bc1286cf713740f58d9affff466b7812&deepLinkTokenId=20230419V1&campaign=flight&redisCode=0528SHATYO&segmentSchema=0135-0255-NH-968-B&D-PVG-T2-HND-T3-2-788&tripType=OW&cabinType=B&departCity=SHA&arriveCity=TYO&departTime=20230528&returnTime=&adult=1&children=1&infant=1"
+        },
+        {
+            "shoppingId": "2f2eb5ccd260424997424476a4033975",
+            "redisCode": "0528SHATYO",
+            "redisSchema": "1155-0230-CA-929-B&J-PVG-T2-NRT-T1-2-332|1847.00-52.44-1386.00-40.64-1386.00-40.64",
+            "segmentSchema": "1155-0230-CA-929-B&J-PVG-T2-NRT-T1-2-332",
+            "currency": "HKD",
+            "flightGroupInfoList": [
+                {
+                    "flightId": "39e58d977d8b4292a27ea88d37c949ae",
+                    "arriveMultCityName": "Tokyo",
+                    "arriveDateTimeFormat": "2023-05-28T14:25:00+08:00",
+                    "departDateTimeFormat": "2023-05-28T11:55:00+08:00",
+                    "departMultCityName": "Shanghai",
+                    "flightTripTitle": "string;",
+                    "duration": {
+                        "h": "02",
+                        "m": "30"
+                    },
+                    "dDateFormat": "string;",
+                    "flightSegments": [
+                        {
+                            "segmentId": "c6f932ef143e4d4c82329bd6e9a7908d",
+                            "aDateTime": "2023-05-28T14:25:00+08:00",
+                            "dDateTime": "2023-05-28T11:55:00+08:00",
+                            "dCityInfo": {
+                                "code": "PVG",
+                                "name": "Shanghai"
+                            },
+                            "aCityInfo": {
+                                "code": "NRT",
+                                "name": "Tokyo"
+                            },
+                            "dPortInfo": {
+                                "code": "PVG",
+                                "name": " Pu Dong",
+                                "terminal": "T2"
+                            },
+                            "aPortInfo": {
+                                "code": "NRT",
+                                "name": " Narita",
+                                "terminal": "T1"
+                            },
+                            "acrossDays": 0,
+                            "airlineInfo": {
+                                "code": "CA",
+                                "name": "CA",
+                                "isLCC": false
+                            },
+                            "craftInfo": {
+                                "name": "Airbus A330-200",
+                                "minSeats": null,
+                                "maxSeats": null,
+                                "widthLevel": "",
+                                "craftType": "A332"
+                            },
+                            "cabinClass": "Business",
+                            "subClass": "J",
+                            "durationInfo": {
+                                "hour": "02",
+                                "min": "30"
+                            },
+                            "transferDurationInfo": null,
+                            "stopInfoList": [],
+                            "flightNo": "929",
+                            "segmentNo": 1
+                        }
+                    ]
+                }
+            ],
+            "policyDetailInfo": {
+                "priceId": "4edc3d2b1f804da48bfe7108e0d00929",
+                "avgPrice": "16232",
+                "totalPrice": "48697",
+                "ticketDeadlineType": 1,
+                "adultPrice": {
+                    "salePrice": "18925",
+                    "tax": "538"
+                },
+                "childPrice": {
+                    "salePrice": "14201",
+                    "tax": "416"
+                },
+                "infantPrice": {
+                    "salePrice": "14201",
+                    "tax": "416"
+                },
+                "limitInfo": {
+                    "adultLimitInfo": null,
+                    "childLimitInfo": null,
+                    "availableSeatCount": 0,
+                    "nationalityLimit": [],
+                    "nationalityLimitType": 0
+                },
+                "productNoticeInfo": null,
+                "noticeInfoList": [],
+                "ticketDeadlineInfo": null
+            },
+            "policyInfo": {
+                "baggageInfoList": [
+                    {
+                        "checkedNote": "Adult tickets: 60kg per person;",
+                        "checkedFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 158CM.",
+                                "weightAndPieceDesc": "30 kg per person",
+                                "weight": 30,
+                                "piece": 2
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        },
+                        "handNote": "Adult: 1 piece(s), 7kg each per person;",
+                        "handFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 115CM.",
+                                "weightAndPieceDesc": "1 piece(s) per person, 7 kg each piece",
+                                "weight": 7,
+                                "piece": 1
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        }
+                    }
+                ],
+                "penaltyInfoList": [
+                    {
+                        "cancelInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "4866",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "4866",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "3654",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3654",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "3654",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3654",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "changeInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "3244",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3244",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "2436",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2436",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "2436",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2436",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "endorsementNote": "No endorsement.",
+                        "specialNote": "",
+                        "noShowCondition": "",
+                        "flagInfoList": [],
+                        "partialUseChangeInfo": null
+                    }
+                ]
+            },
+            "deeplink": "https://www.skywingtrip.com/book?landingPage=booking&locale=TW&mktportal=skyscanner&language=tc&currency=HKD&shoppingId=2f2eb5ccd260424997424476a4033975&deepLinkTokenId=20230419V1&campaign=flight&redisCode=0528SHATYO&segmentSchema=1155-0230-CA-929-B&J-PVG-T2-NRT-T1-2-332&tripType=OW&cabinType=B&departCity=SHA&arriveCity=TYO&departTime=20230528&returnTime=&adult=1&children=1&infant=1"
+        },
+        {
+            "shoppingId": "3582cbe67e5a4bf88dc27ffa0379e76f",
+            "redisCode": "0528SHATYO",
+            "redisSchema": "1400-0305-JL-876-B&C-PVG-T1-NRT-T2-3-767|1573.00-59.11-1180.00-47.31-1180.00-47.31",
+            "segmentSchema": "1400-0305-JL-876-B&C-PVG-T1-NRT-T2-3-767",
+            "currency": "HKD",
+            "flightGroupInfoList": [
+                {
+                    "flightId": "3c257ffe9afd4b528a34fa8e1696249b",
+                    "arriveMultCityName": "Tokyo",
+                    "arriveDateTimeFormat": "2023-05-28T17:05:00+08:00",
+                    "departDateTimeFormat": "2023-05-28T14:00:00+08:00",
+                    "departMultCityName": "Shanghai",
+                    "flightTripTitle": "string;",
+                    "duration": {
+                        "h": "03",
+                        "m": "05"
+                    },
+                    "dDateFormat": "string;",
+                    "flightSegments": [
+                        {
+                            "segmentId": "2e24073facd04811ad62e41219e50228",
+                            "aDateTime": "2023-05-28T17:05:00+08:00",
+                            "dDateTime": "2023-05-28T14:00:00+08:00",
+                            "dCityInfo": {
+                                "code": "PVG",
+                                "name": "Shanghai"
+                            },
+                            "aCityInfo": {
+                                "code": "NRT",
+                                "name": "Tokyo"
+                            },
+                            "dPortInfo": {
+                                "code": "PVG",
+                                "name": " Pu Dong",
+                                "terminal": "T1"
+                            },
+                            "aPortInfo": {
+                                "code": "NRT",
+                                "name": " Narita",
+                                "terminal": "T2"
+                            },
+                            "acrossDays": 0,
+                            "airlineInfo": {
+                                "code": "JL",
+                                "name": "JL",
+                                "isLCC": false
+                            },
+                            "craftInfo": {
+                                "name": "Boeing 767 all pax models",
+                                "minSeats": null,
+                                "maxSeats": null,
+                                "widthLevel": "",
+                                "craftType": "n/a"
+                            },
+                            "cabinClass": "Business",
+                            "subClass": "C",
+                            "durationInfo": {
+                                "hour": "03",
+                                "min": "05"
+                            },
+                            "transferDurationInfo": null,
+                            "stopInfoList": [],
+                            "flightNo": "876",
+                            "segmentNo": 1
+                        }
+                    ]
+                }
+            ],
+            "policyDetailInfo": {
+                "priceId": "3c583a2613c64c81be812c9ff691e65e",
+                "avgPrice": "13958",
+                "totalPrice": "41875",
+                "ticketDeadlineType": 1,
+                "adultPrice": {
+                    "salePrice": "16117",
+                    "tax": "606"
+                },
+                "childPrice": {
+                    "salePrice": "12091",
+                    "tax": "485"
+                },
+                "infantPrice": {
+                    "salePrice": "12091",
+                    "tax": "485"
+                },
+                "limitInfo": {
+                    "adultLimitInfo": null,
+                    "childLimitInfo": null,
+                    "availableSeatCount": 0,
+                    "nationalityLimit": [],
+                    "nationalityLimitType": 0
+                },
+                "productNoticeInfo": null,
+                "noticeInfoList": [],
+                "ticketDeadlineInfo": null
+            },
+            "policyInfo": {
+                "baggageInfoList": [
+                    {
+                        "checkedNote": "Adult tickets: 90kg per person;",
+                        "checkedFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 158CM.",
+                                "weightAndPieceDesc": "30 kg per person",
+                                "weight": 30,
+                                "piece": 3
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        },
+                        "handNote": "Adult: 1 piece(s), 7kg each per person;",
+                        "handFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 115CM.",
+                                "weightAndPieceDesc": "1 piece(s) per person, 7 kg each piece",
+                                "weight": 7,
+                                "piece": 1
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        }
+                    }
+                ],
+                "penaltyInfoList": [
+                    {
+                        "cancelInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "4181",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "4181",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "3144",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3144",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "3144",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3144",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "changeInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "2787",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2787",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "2096",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2096",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "2096",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2096",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "endorsementNote": "No endorsement.",
+                        "specialNote": "",
+                        "noShowCondition": "",
+                        "flagInfoList": [],
+                        "partialUseChangeInfo": null
+                    }
+                ]
+            },
+            "deeplink": "https://www.skywingtrip.com/book?landingPage=booking&locale=TW&mktportal=skyscanner&language=tc&currency=HKD&shoppingId=3582cbe67e5a4bf88dc27ffa0379e76f&deepLinkTokenId=20230419V1&campaign=flight&redisCode=0528SHATYO&segmentSchema=1400-0305-JL-876-B&C-PVG-T1-NRT-T2-3-767&tripType=OW&cabinType=B&departCity=SHA&arriveCity=TYO&departTime=20230528&returnTime=&adult=1&children=1&infant=1"
+        },
+        {
+            "shoppingId": "e5c15ee4d99e4ab8bbb682cb6f9d0f75",
+            "redisCode": "0528SHATYO",
+            "redisSchema": "0135-0255-HO-3137-B&J-PVG-T2-HND-T3-2-788|821.00-52.79-618.00-40.99-618.00-40.99",
+            "segmentSchema": "0135-0255-HO-3137-B&J-PVG-T2-HND-T3-2-788",
+            "currency": "HKD",
+            "flightGroupInfoList": [
+                {
+                    "flightId": "24810e2b5b3c462689b1ddf2f4f72ca4",
+                    "arriveMultCityName": "Tokyo",
+                    "arriveDateTimeFormat": "2023-05-28T04:30:00+08:00",
+                    "departDateTimeFormat": "2023-05-28T01:35:00+08:00",
+                    "departMultCityName": "Shanghai",
+                    "flightTripTitle": "string;",
+                    "duration": {
+                        "h": "02",
+                        "m": "55"
+                    },
+                    "dDateFormat": "string;",
+                    "flightSegments": [
+                        {
+                            "segmentId": "9ee4375066ff42d3be6306aa982e187d",
+                            "aDateTime": "2023-05-28T04:30:00+08:00",
+                            "dDateTime": "2023-05-28T01:35:00+08:00",
+                            "dCityInfo": {
+                                "code": "PVG",
+                                "name": "Shanghai"
+                            },
+                            "aCityInfo": {
+                                "code": "HND",
+                                "name": "Tokyo"
+                            },
+                            "dPortInfo": {
+                                "code": "PVG",
+                                "name": " Pu Dong",
+                                "terminal": "T2"
+                            },
+                            "aPortInfo": {
+                                "code": "HND",
+                                "name": " Haneda",
+                                "terminal": "T3"
+                            },
+                            "acrossDays": 0,
+                            "airlineInfo": {
+                                "code": "HO",
+                                "name": "HO",
+                                "isLCC": false
+                            },
+                            "craftInfo": {
+                                "name": "Boeing 787-8 pax",
+                                "minSeats": null,
+                                "maxSeats": null,
+                                "widthLevel": "",
+                                "craftType": "B788"
+                            },
+                            "cabinClass": "Business",
+                            "subClass": "J",
+                            "durationInfo": {
+                                "hour": "02",
+                                "min": "55"
+                            },
+                            "transferDurationInfo": null,
+                            "stopInfoList": [],
+                            "flightNo": "3137",
+                            "segmentNo": 1
+                        }
+                    ]
+                }
+            ],
+            "policyDetailInfo": {
+                "priceId": "48714db5961f41eba963e2bdcaa93e5a",
+                "avgPrice": "7486",
+                "totalPrice": "22458",
+                "ticketDeadlineType": 1,
+                "adultPrice": {
+                    "salePrice": "8412",
+                    "tax": "541"
+                },
+                "childPrice": {
+                    "salePrice": "6332",
+                    "tax": "420"
+                },
+                "infantPrice": {
+                    "salePrice": "6332",
+                    "tax": "420"
+                },
+                "limitInfo": {
+                    "adultLimitInfo": null,
+                    "childLimitInfo": null,
+                    "availableSeatCount": 0,
+                    "nationalityLimit": [],
+                    "nationalityLimitType": 0
+                },
+                "productNoticeInfo": null,
+                "noticeInfoList": [],
+                "ticketDeadlineInfo": null
+            },
+            "policyInfo": {
+                "baggageInfoList": [
+                    {
+                        "checkedNote": "Adult tickets: 60kg per person;",
+                        "checkedFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 158CM.",
+                                "weightAndPieceDesc": "30 kg per person",
+                                "weight": 30,
+                                "piece": 2
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        },
+                        "handNote": "Adult: 1 piece(s), 7kg each per person;",
+                        "handFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 115CM.",
+                                "weightAndPieceDesc": "1 piece(s) per person, 7 kg each piece",
+                                "weight": 7,
+                                "piece": 1
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        }
+                    }
+                ],
+                "penaltyInfoList": [
+                    {
+                        "cancelInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "2238",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2238",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "1688",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1688",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "1688",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1688",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "changeInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "1492",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1492",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "1125",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1125",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "1125",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "1125",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "endorsementNote": "No endorsement.",
+                        "specialNote": "",
+                        "noShowCondition": "",
+                        "flagInfoList": [],
+                        "partialUseChangeInfo": null
+                    }
+                ]
+            },
+            "deeplink": "https://www.skywingtrip.com/book?landingPage=booking&locale=TW&mktportal=skyscanner&language=tc&currency=HKD&shoppingId=e5c15ee4d99e4ab8bbb682cb6f9d0f75&deepLinkTokenId=20230419V1&campaign=flight&redisCode=0528SHATYO&segmentSchema=0135-0255-HO-3137-B&J-PVG-T2-HND-T3-2-788&tripType=OW&cabinType=B&departCity=SHA&arriveCity=TYO&departTime=20230528&returnTime=&adult=1&children=1&infant=1"
+        },
+        {
+            "shoppingId": "9469d02e0d534f76b66d12767be356bf",
+            "redisCode": "0528SHATYO",
+            "redisSchema": "1250-0255-JL-82-B&J-SHA-T1-HND-T3-3-767|1820.00-59.11-1365.00-47.31-1365.00-47.31",
+            "segmentSchema": "1250-0255-JL-82-B&J-SHA-T1-HND-T3-3-767",
+            "currency": "HKD",
+            "flightGroupInfoList": [
+                {
+                    "flightId": "a35ad44a77cc490393c7238a21d7a66c",
+                    "arriveMultCityName": "Tokyo",
+                    "arriveDateTimeFormat": "2023-05-28T15:45:00+08:00",
+                    "departDateTimeFormat": "2023-05-28T12:50:00+08:00",
+                    "departMultCityName": "Shanghai",
+                    "flightTripTitle": "string;",
+                    "duration": {
+                        "h": "02",
+                        "m": "55"
+                    },
+                    "dDateFormat": "string;",
+                    "flightSegments": [
+                        {
+                            "segmentId": "b11efce1224744618a7078b4ceaebfec",
+                            "aDateTime": "2023-05-28T15:45:00+08:00",
+                            "dDateTime": "2023-05-28T12:50:00+08:00",
+                            "dCityInfo": {
+                                "code": "SHA",
+                                "name": "Shanghai"
+                            },
+                            "aCityInfo": {
+                                "code": "HND",
+                                "name": "Tokyo"
+                            },
+                            "dPortInfo": {
+                                "code": "SHA",
+                                "name": " Hongqiao",
+                                "terminal": "T1"
+                            },
+                            "aPortInfo": {
+                                "code": "HND",
+                                "name": " Haneda",
+                                "terminal": "T3"
+                            },
+                            "acrossDays": 0,
+                            "airlineInfo": {
+                                "code": "JL",
+                                "name": "JL",
+                                "isLCC": false
+                            },
+                            "craftInfo": {
+                                "name": "Boeing 767 all pax models",
+                                "minSeats": null,
+                                "maxSeats": null,
+                                "widthLevel": "",
+                                "craftType": "n/a"
+                            },
+                            "cabinClass": "Business",
+                            "subClass": "J",
+                            "durationInfo": {
+                                "hour": "02",
+                                "min": "55"
+                            },
+                            "transferDurationInfo": null,
+                            "stopInfoList": [],
+                            "flightNo": "82",
+                            "segmentNo": 1
+                        }
+                    ]
+                }
+            ],
+            "policyDetailInfo": {
+                "priceId": "048b0bc3e959424abc3f1cb94e1a0012",
+                "avgPrice": "16066",
+                "totalPrice": "48196",
+                "ticketDeadlineType": 1,
+                "adultPrice": {
+                    "salePrice": "18648",
+                    "tax": "606"
+                },
+                "childPrice": {
+                    "salePrice": "13986",
+                    "tax": "485"
+                },
+                "infantPrice": {
+                    "salePrice": "13986",
+                    "tax": "485"
+                },
+                "limitInfo": {
+                    "adultLimitInfo": null,
+                    "childLimitInfo": null,
+                    "availableSeatCount": 0,
+                    "nationalityLimit": [],
+                    "nationalityLimitType": 0
+                },
+                "productNoticeInfo": null,
+                "noticeInfoList": [],
+                "ticketDeadlineInfo": null
+            },
+            "policyInfo": {
+                "baggageInfoList": [
+                    {
+                        "checkedNote": "Adult tickets: 90kg per person;",
+                        "checkedFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 158CM.",
+                                "weightAndPieceDesc": "30 kg per person",
+                                "weight": 30,
+                                "piece": 3
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        },
+                        "handNote": "Adult: 1 piece(s), 7kg each per person;",
+                        "handFormatted": {
+                            "sequenceNote": null,
+                            "adultDetail": {
+                                "description": "Total dimensions (length + width + height) of each piece cannot exceed 115CM.",
+                                "weightAndPieceDesc": "1 piece(s) per person, 7 kg each piece",
+                                "weight": 7,
+                                "piece": 1
+                            },
+                            "childDetail": null,
+                            "infantDetail": null
+                        }
+                    }
+                ],
+                "penaltyInfoList": [
+                    {
+                        "cancelInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "4814",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "4814",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "3618",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3618",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "3618",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3618",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "changeInfo": {
+                            "note": "",
+                            "formatted": {
+                                "adultList": [
+                                    {
+                                        "specialText": "3209",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "3209",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "childList": [
+                                    {
+                                        "specialText": "2412",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2412",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "infantList": [
+                                    {
+                                        "specialText": "2412",
+                                        "timeText": "Before departure",
+                                        "specialType": 0
+                                    },
+                                    {
+                                        "specialText": "2412",
+                                        "timeText": "After departure",
+                                        "specialType": 0
+                                    }
+                                ],
+                                "concurrentDescription": ""
+                            },
+                            "originText": {
+                                "adult": false,
+                                "child": false,
+                                "infant": false
+                            },
+                            "notAllowed": false,
+                            "firstTimeChangeFreeNote": null
+                        },
+                        "endorsementNote": "No endorsement.",
+                        "specialNote": "",
+                        "noShowCondition": "",
+                        "flagInfoList": [],
+                        "partialUseChangeInfo": null
+                    }
+                ]
+            },
+            "deeplink": "https://www.skywingtrip.com/book?landingPage=booking&locale=TW&mktportal=skyscanner&language=tc&currency=HKD&shoppingId=9469d02e0d534f76b66d12767be356bf&deepLinkTokenId=20230419V1&campaign=flight&redisCode=0528SHATYO&segmentSchema=1250-0255-JL-82-B&J-SHA-T1-HND-T3-3-767&tripType=OW&cabinType=B&departCity=SHA&arriveCity=TYO&departTime=20230528&returnTime=&adult=1&children=1&infant=1"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+[
+{
+"name": "香港",
+"cityCode": "HKG",
+"eName": "Hong Kong",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "澳門",
+"cityCode": "MFM",
+"eName": "Macau",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "台北",
+"cityCode": "TPE",
+"eName": "Taipei",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "上海",
+"cityCode": "SHA",
+"eName": "Shanghai",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "北京",
+"cityCode": "BJS",
+"eName": "Beijing",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "高雄",
+"cityCode": "KHH",
+"eName": "Kaohsiung",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "廣州",
+"cityCode": "CAN",
+"eName": "Guangzhou",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "深圳",
+"cityCode": "SZX",
+"eName": "Shenzhen",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "台中",
+"cityCode": "RMQ",
+"eName": "Taichung",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "東京",
+"cityCode": "TYO",
+"eName": "Tokyo",
+"timeZone": 9,
+"isValid": true
+},
+{
+"name": "大阪",
+"cityCode": "OSA",
+"eName": "Osaka",
+"timeZone": 9,
+"isValid": true
+},
+{
+"name": "沖繩",
+"cityCode": "OKA",
+"eName": "Okinawa",
+"timeZone": 9,
+"isValid": true
+},
+{
+"name": "首爾",
+"cityCode": "SEL",
+"eName": "Seoul",
+"timeZone": 9,
+"isValid": true
+},
+{
+"name": "釜山",
+"cityCode": "PUS",
+"eName": "Busan",
+"timeZone": 9,
+"isValid": true
+},
+{
+"name": "札幌",
+"cityCode": "SPK",
+"eName": "Sapporo",
+"timeZone": 9,
+"isValid": true
+},
+{
+"name": "濟州市",
+"cityCode": "CJU",
+"eName": "Jeju",
+"timeZone": 9,
+"isValid": true
+},
+{
+"name": "新加坡",
+"cityCode": "SIN",
+"eName": "Singapore",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "曼谷",
+"cityCode": "BKK",
+"eName": "Bangkok",
+"timeZone": 7,
+"isValid": true
+},
+{
+"name": "布吉",
+"cityCode": "HKT",
+"eName": "Phuket",
+"timeZone": 7,
+"isValid": true
+},
+{
+"name": "吉隆坡",
+"cityCode": "KUL",
+"eName": "Kuala Lumpur",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "胡志明市",
+"cityCode": "SGN",
+"eName": "Ho Chi Minh City",
+"timeZone": 7,
+"isValid": true
+},
+{
+"name": "馬尼拉",
+"cityCode": "MNL",
+"eName": "Manila",
+"timeZone": 8,
+"isValid": true
+},
+{
+"name": "倫敦",
+"cityCode": "LON",
+"eName": "London",
+"timeZone": 0,
+"isValid": true
+},
+{
+"name": "温哥華",
+"cityCode": "YVR",
+"eName": "Vancouver",
+"timeZone": -8,
+"isValid": true
+},
+{
+"name": "多倫多",
+"cityCode": "YTO",
+"eName": "Toronto",
+"timeZone": -5,
+"isValid": true
+},
+{
+"name": "洛杉磯",
+"cityCode": "LAX",
+"eName": "Los Angeles",
+"timeZone": -8,
+"isValid": true
+},
+{
+"name": "紐約",
+"cityCode": "NYC",
+"eName": "New York",
+"timeZone": -5,
+"isValid": true
+},
+{
+"name": "三藩市",
+"cityCode": "SFO",
+"eName": "San Francisco",
+"timeZone": -8,
+"isValid": true
+},
+{
+"name": "悉尼",
+"cityCode": "SYD",
+"eName": "Sydney",
+"timeZone": 10,
+"isValid": true
+},
+{
+"name": "墨爾本",
+"cityCode": "MEL",
+"eName": "Melbourne",
+"timeZone": 10,
+"isValid": true
+},
+{
+"name": "奧克蘭",
+"cityCode": "AKL",
+"eName": "Auckland",
+"timeZone": 12,
+"isValid": true
+}]

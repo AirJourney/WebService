@@ -1,0 +1,41 @@
+[
+  {
+    "from": "HKD",
+    "to": "EUR"
+  },
+
+  {
+    "from": "CNY",
+    "to": "EUR"
+  },
+
+  {
+    "from": "TWD",
+    "to": "EUR"
+  },
+
+  {
+    "from": "MYR",
+    "to": "EUR"
+  },
+
+  {
+    "from": "USD",
+    "to": "EUR"
+  },
+
+  {
+    "from": "EUR",
+    "to": "EUR"
+  },
+
+  {
+    "from": "GBP",
+    "to": "EUR"
+  },
+
+  {
+    "from": "CHF",
+    "to": "EUR"
+  }
+]

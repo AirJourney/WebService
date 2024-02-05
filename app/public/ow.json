@@ -1,0 +1,710 @@
+[
+  {
+    "shoppingId": "8702a5fb22764982b5d5e920007cf1af",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-11T01:05:00+08:00",
+          "dDateTime": "2022-02-10T20:25:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "YJE", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "YJV", "name": "", "terminal": "T0" },
+          "acrossDays": 1,
+          "airlineInfo": { "code": "9B", "name": "9B", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "S",
+          "durationInfo": { "hour": "04", "min": "40" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "4118",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "childPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "infantPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "ee2ac6ad4c56409486b442b53477a49e",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-11T01:56:00+08:00",
+          "dDateTime": "2022-02-10T20:25:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "YJE", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "YJV", "name": "", "terminal": "T0" },
+          "acrossDays": 1,
+          "airlineInfo": { "code": "9B", "name": "9B", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "S",
+          "durationInfo": { "hour": "05", "min": "31" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "4118",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "childPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "infantPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "cfd24a7e41e946b08dc37b77c38ef9fd",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-10T15:10:00+08:00",
+          "dDateTime": "2022-02-10T14:00:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "ALC", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "BCN", "name": "", "terminal": "T1" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "IB", "name": "IB", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "F",
+          "durationInfo": { "hour": "01", "min": "10" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "5039",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "childPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "infantPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "e505a7e727934614912c0606aab1adca",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-10T05:57:00+08:00",
+          "dDateTime": "2022-02-10T00:30:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "YJE", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "YJV", "name": "", "terminal": "T0" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "9B", "name": "9B", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "S",
+          "durationInfo": { "hour": "05", "min": "27" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "4388",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "childPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "infantPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "23e037ae6f6d4a01a714b97bf7f8d78d",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-11T03:40:00+08:00",
+          "dDateTime": "2022-02-10T22:10:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "YJE", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "YJB", "name": "", "terminal": "T0" },
+          "acrossDays": 1,
+          "airlineInfo": { "code": "9B", "name": "9B", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "S",
+          "durationInfo": { "hour": "05", "min": "30" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "4306",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "childPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "infantPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "8f73a7f82138449e92408aff7aceaf61",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-10T04:55:00+08:00",
+          "dDateTime": "2022-02-10T00:30:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "YJE", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "YJV", "name": "", "terminal": "T0" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "9B", "name": "9B", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "S",
+          "durationInfo": { "hour": "04", "min": "25" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "4388",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "childPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "infantPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "580ed99bfc4d435aada92658ea85f449",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-10T01:55:00+08:00",
+          "dDateTime": "2022-02-10T00:40:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "ALC", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "MAD", "name": "", "terminal": "T4" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "IB", "name": "IB", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "M",
+          "durationInfo": { "hour": "01", "min": "15" },
+          "transferDurationInfo": { "hour": "02", "min": "05" },
+          "stopInfoList": null,
+          "flightNo": "8863",
+          "segmentNo": 1
+        },
+        {
+          "aDateTime": "Invalid date",
+          "dDateTime": "Invalid date",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "MAD", "name": "", "terminal": "T4" },
+          "aPortInfo": { "code": "BCN", "name": "", "terminal": "T1" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "IB", "name": "IB", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "M",
+          "durationInfo": { "hour": "01", "min": "20" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "3034",
+          "segmentNo": 2
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "286.00", "tax": "24.78" },
+      "childPrice": { "salePrice": "196.00", "tax": "24.78" },
+      "infantPrice": { "salePrice": "196.00", "tax": "24.78" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "6c1a32899c03425f95c751b1932e7e60",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-11T04:26:00+08:00",
+          "dDateTime": "2022-02-10T22:10:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "YJE", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "YJB", "name": "", "terminal": "T0" },
+          "acrossDays": 1,
+          "airlineInfo": { "code": "9B", "name": "9B", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "S",
+          "durationInfo": { "hour": "06", "min": "16" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "4306",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "childPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "infantPrice": { "salePrice": "80.00", "tax": "0.00" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "a384f354090f4478860084603e199142",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-10T19:35:00+08:00",
+          "dDateTime": "2022-02-10T18:25:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "ALC", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "BCN", "name": "", "terminal": "T1" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "VY", "name": "VY", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "S",
+          "durationInfo": { "hour": "01", "min": "10" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "1307",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "childPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "infantPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "1f9a6553889040eead2e8c7060f9a78c",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-10T01:55:00+08:00",
+          "dDateTime": "2022-02-10T00:40:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "ALC", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "MAD", "name": "", "terminal": "T4" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "IB", "name": "IB", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "M",
+          "durationInfo": { "hour": "01", "min": "15" },
+          "transferDurationInfo": { "hour": "02", "min": "05" },
+          "stopInfoList": null,
+          "flightNo": "8863",
+          "segmentNo": 1
+        },
+        {
+          "aDateTime": "Invalid date",
+          "dDateTime": "Invalid date",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "MAD", "name": "", "terminal": "T4" },
+          "aPortInfo": { "code": "BCN", "name": "", "terminal": "T1" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "IB", "name": "IB", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "M",
+          "durationInfo": { "hour": "01", "min": "20" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "3034",
+          "segmentNo": 2
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "261.00", "tax": "24.78" },
+      "childPrice": { "salePrice": "180.00", "tax": "24.78" },
+      "infantPrice": { "salePrice": "180.00", "tax": "24.78" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "1dd6b96ccdbd4978988cf90f8cf785d0",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-10T15:10:00+08:00",
+          "dDateTime": "2022-02-10T14:00:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "ALC", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "BCN", "name": "", "terminal": "T1" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "VY", "name": "VY", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "S",
+          "durationInfo": { "hour": "01", "min": "10" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "1311",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "childPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "infantPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  },
+  {
+    "shoppingId": "373fa2c3b1f14eed90c6ff4d58dd059d",
+    "flightGroupInfoList": {
+      "arriveMultCityName": "string;",
+      "departDateTimeFormat": "string;",
+      "departMultCityName": "string;",
+      "flightTripTitle": "string;",
+      "duration": "string;",
+      "dDateFormat": "string;",
+      "flightSegments": [
+        {
+          "aDateTime": "2022-02-10T19:35:00+08:00",
+          "dDateTime": "2022-02-10T18:25:00+08:00",
+          "dCityInfo": { "code": "", "name": "" },
+          "aCityInfo": { "code": "", "name": "" },
+          "dPortInfo": { "code": "ALC", "name": "", "terminal": "T0" },
+          "aPortInfo": { "code": "BCN", "name": "", "terminal": "T1" },
+          "acrossDays": 0,
+          "airlineInfo": { "code": "IB", "name": "IB", "isLCC": false },
+          "craftInfo": {
+            "name": "",
+            "minSeats": null,
+            "maxSeats": null,
+            "widthLevel": "",
+            "craftType": ""
+          },
+          "cabinClass": "Economy",
+          "subClass": "F",
+          "durationInfo": { "hour": "01", "min": "10" },
+          "transferDurationInfo": null,
+          "stopInfoList": null,
+          "flightNo": "5037",
+          "segmentNo": 1
+        }
+      ]
+    },
+    "policyDetailInfo": {
+      "avgPrice": 0,
+      "ticketDeadlineType": 1,
+      "adultPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "childPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "infantPrice": { "salePrice": "113.00", "tax": "11.69" },
+      "limitInfo": {
+        "adultLimitInfo": null,
+        "childLimitInfo": null,
+        "availableSeatCount": 0,
+        "nationalityLimit": [],
+        "nationalityLimitType": 0
+      },
+      "productNoticeInfo": null,
+      "noticeInfoList": [],
+      "ticketDeadlineInfo": null
+    },
+    "policyInfoList": null
+  }
+]

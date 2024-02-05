@@ -1,0 +1,2215 @@
+[{
+    "name": {
+        "en": "Afghanistan",
+        "zh": "阿富汗",
+        "tc": "阿富汗",
+        "es": "Afganistán"
+    },
+    "phoneCode": "+93",
+    "code": "AF"
+}, {
+    "name": {
+        "en": "Albania",
+        "zh": "阿尔巴尼亚",
+        "tc": "阿爾巴尼亞",
+        "es": "Albania"
+    },
+    "phoneCode": "+355",
+    "code": "AL"
+}, {
+    "name": {
+        "en": "Algeria",
+        "zh": "阿尔及利亚",
+        "tc": "阿爾及利亞",
+        "es": "Argelia"
+    },
+    "phoneCode": "+213",
+    "code": "DZ"
+}, {
+    "name": {
+        "en": "American Samoa",
+        "zh": "美属萨摩亚",
+        "tc": "美屬薩摩亞",
+        "es": "Samoa Americana"
+    },
+    "phoneCode": "+1684",
+    "code": "AS"
+}, {
+    "name": {
+        "en": "Andorra",
+        "zh": "安道尔",
+        "tc": "安道爾",
+        "es": "Andorra"
+    },
+    "phoneCode": "+376",
+    "code": "AD"
+}, {
+    "name": {
+        "en": "Angola",
+        "zh": "安哥拉",
+        "tc": "安哥拉",
+        "es": "Angola"
+    },
+    "phoneCode": "+244",
+    "code": "AO"
+}, {
+    "name": {
+        "en": "Anguilla",
+        "zh": "安圭拉",
+        "tc": "安圭拉",
+        "es": "Anguila"
+    },
+    "phoneCode": "+1264",
+    "code": "AI"
+}, {
+    "name": {
+        "en": "Antarctica",
+        "zh": "南极洲",
+        "tc": "南極洲",
+        "es": "Antártida"
+    },
+    "phoneCode": "+672",
+    "code": "AQ"
+}, {
+    "name": {
+        "en": "Antigua and barbuda",
+        "zh": "安提瓜和巴布达",
+        "tc": "安提瓜和巴布達",
+        "es": "Antigua y Barbuda"
+    },
+    "phoneCode": "+1268",
+    "code": "AG"
+}, {
+    "name": {
+        "en": "Argentina",
+        "zh": "阿根廷",
+        "tc": "阿根廷",
+        "es": "Argentina"
+    },
+    "phoneCode": "+54",
+    "code": "AR"
+}, {
+    "name": {
+        "en": "Armenia",
+        "zh": "亚美尼亚",
+        "tc": "亞美尼亞",
+        "es": "Armenia"
+    },
+    "phoneCode": "+374",
+    "code": "AM"
+}, {
+    "name": {
+        "en": "Aruba",
+        "zh": "阿鲁巴",
+        "tc": "阿魯巴",
+        "es": "Aruba"
+    },
+    "phoneCode": "+297",
+    "code": "AW"
+}, {
+    "name": {
+        "en": "Australia",
+        "zh": "澳大利亚",
+        "tc": "澳洲",
+        "es": "Australia"
+    },
+    "phoneCode": "+61",
+    "code": "AU"
+}, {
+    "name": {
+        "en": "Austria",
+        "zh": "奥地利",
+        "tc": "奧地利",
+        "es": "Austria"
+    },
+    "phoneCode": "+43",
+    "code": "AT"
+}, {
+    "name": {
+        "en": "Azerbaijan",
+        "zh": "阿塞拜疆",
+        "tc": "阿塞拜疆",
+        "es": "Azerbaiyán"
+    },
+    "phoneCode": "+994",
+    "code": "AZ"
+}, {
+    "name": {
+        "en": "Bahamas",
+        "zh": "巴哈马",
+        "tc": "巴哈馬",
+        "es": "Bahamas"
+    },
+    "phoneCode": "+1242",
+    "code": "BS"
+}, {
+    "name": {
+        "en": "Bahrain",
+        "zh": "巴林",
+        "tc": "巴林",
+        "es": "Bahrein"
+    },
+    "phoneCode": "+973",
+    "code": "BH"
+}, {
+    "name": {
+        "en": "Bangladesh",
+        "zh": "孟加拉国",
+        "tc": "孟加拉國",
+        "es": "Bangladesh"
+    },
+    "phoneCode": "+880",
+    "code": "BD"
+}, {
+    "name": {
+        "en": "Barbados",
+        "zh": "巴巴多斯",
+        "tc": "巴巴多斯",
+        "es": "Barbados"
+    },
+    "phoneCode": "+1246",
+    "code": "BB"
+}, {
+    "name": {
+        "en": "Belarus",
+        "zh": "白俄罗斯",
+        "tc": "白俄羅斯",
+        "es": "Belarús"
+    },
+    "phoneCode": "+375",
+    "code": "BY"
+}, {
+    "name": {
+        "en": "Belgium",
+        "zh": "比利时",
+        "tc": "比利時",
+        "es": "Bélgica"
+    },
+    "phoneCode": "+32",
+    "code": "BE"
+}, {
+    "name": {
+        "en": "Belize",
+        "zh": "伯利兹",
+        "tc": "伯利茲",
+        "es": "Belice"
+    },
+    "phoneCode": "+501",
+    "code": "BZ"
+}, {
+    "name": {
+        "en": "Benin",
+        "zh": "贝宁",
+        "tc": "貝寧",
+        "es": "Benin"
+    },
+    "phoneCode": "+229",
+    "code": "BJ"
+}, {
+    "name": {
+        "en": "Bermuda",
+        "zh": "百慕大",
+        "tc": "百慕大",
+        "es": "Bermudas"
+    },
+    "phoneCode": "+1441",
+    "code": "BM"
+}, {
+    "name": {
+        "en": "Bhutan",
+        "zh": "不丹",
+        "tc": "不丹",
+        "es": "Bhután"
+    },
+    "phoneCode": "+975",
+    "code": "BT"
+}, {
+    "name": {
+        "en": "Bolivia",
+        "zh": "玻利维亚",
+        "tc": "玻利維亞",
+        "es": "Bolivia"
+    },
+    "phoneCode": "+591",
+    "code": "BO"
+}, {
+    "name": {
+        "en": "Bonaire, Saint Eustatius and Saba",
+        "zh": "博内尔岛，圣尤斯特歇斯和萨巴",
+        "tc": "博內爾島，聖尤斯特歇斯和薩巴",
+        "es": "Bonaire, San Eustaquio y Saba"
+    },
+    "phoneCode": "+599",
+    "code": "BQ"
+}, {
+    "name": {
+        "en": "Bosnia and Herzegovina",
+        "zh": "波黑",
+        "tc": "波黑",
+        "es": "Bosnia y Herzegovina"
+    },
+    "phoneCode": "+387",
+    "code": "BA"
+}, {
+    "name": {
+        "en": "Botswana",
+        "zh": "博茨瓦纳",
+        "tc": "博茨瓦納",
+        "es": "Botswana"
+    },
+    "phoneCode": "+267",
+    "code": "BW"
+}, {
+    "name": {
+        "en": "Bouvet Island",
+        "zh": "布韦岛",
+        "tc": "布韋島",
+        "es": "Isla Bouvet"
+    },
+    "phoneCode": "+74",
+    "code": "BV"
+}, {
+    "name": {
+        "en": "Brazil",
+        "zh": "巴西",
+        "tc": "巴西",
+        "es": "Brasil"
+    },
+    "phoneCode": "+55",
+    "code": "BR"
+}, {
+    "name": {
+        "en": "British Indian Ocean Territory",
+        "zh": "英属印度洋领地",
+        "tc": "英屬印度洋領地",
+        "es": "Territorio Británico del Océano Índico"
+    },
+    "phoneCode": "+246",
+    "code": "IO"
+}, {
+    "name": {
+        "en": "Brunei",
+        "zh": "文莱",
+        "tc": "文萊",
+        "es": "Brunei"
+    },
+    "phoneCode": "+673",
+    "code": "BN"
+}, {
+    "name": {
+        "en": "Bulgaria",
+        "zh": "保加利亚",
+        "tc": "保加利亞",
+        "es": "Bulgaria"
+    },
+    "phoneCode": "+359",
+    "code": "BG"
+}, {
+    "name": {
+        "en": "Burkina Faso",
+        "zh": "布基纳法索",
+        "tc": "布基納法索",
+        "es": "Burkina Faso"
+    },
+    "phoneCode": "+226",
+    "code": "BF"
+}, {
+    "name": {
+        "en": "Burundi",
+        "zh": "布隆迪",
+        "tc": "布隆迪",
+        "es": "Burundi"
+    },
+    "phoneCode": "+257",
+    "code": "BI"
+}, {
+    "name": {
+        "en": "Cambodia",
+        "zh": "柬埔寨",
+        "tc": "柬埔寨",
+        "es": "Camboya"
+    },
+    "phoneCode": "+855",
+    "code": "KH"
+}, {
+    "name": {
+        "en": "Cameroon",
+        "zh": "喀麦隆",
+        "tc": "喀麥隆",
+        "es": "Camerún"
+    },
+    "phoneCode": "+237",
+    "code": "CM"
+}, {
+    "name": {
+        "en": "Canada",
+        "zh": "加拿大",
+        "tc": "加拿大",
+        "es": "Canadá"
+    },
+    "phoneCode": "+1",
+    "code": "CA"
+}, {
+    "name": {
+        "en": "Cape Verde",
+        "zh": "佛得角",
+        "tc": "佛得角",
+        "es": "Cabo Verde"
+    },
+    "phoneCode": "+238",
+    "code": "CV"
+}, {
+    "name": {
+        "en": "Cayman Islands",
+        "zh": "开曼群岛",
+        "tc": "開曼群島",
+        "es": "Islas Caimán"
+    },
+    "phoneCode": "+1345",
+    "code": "KY"
+}, {
+    "name": {
+        "en": "Central Africa Republic",
+        "zh": "中非",
+        "tc": "中非",
+        "es": "África central"
+    },
+    "phoneCode": "+236",
+    "code": "CF"
+}, {
+    "name": {
+        "en": "Chad",
+        "zh": "乍得",
+        "tc": "乍得",
+        "es": "Chad"
+    },
+    "phoneCode": "+235",
+    "code": "TD"
+}, {
+    "name": {
+        "en": "Chile",
+        "zh": "智利",
+        "tc": "智利",
+        "es": "Chile"
+    },
+    "phoneCode": "+56",
+    "code": "CL"
+}, {
+    "name": {
+        "en": "China",
+        "zh": "中国",
+        "tc": "中國",
+        "es": "China"
+    },
+    "phoneCode": "+86",
+    "code": "CN"
+}, {
+    "name": {
+        "en": "Christmas Island",
+        "zh": "圣诞岛",
+        "tc": "聖誕島",
+        "es": "Isla de Navidad"
+    },
+    "phoneCode": "+61",
+    "code": "CX"
+}, {
+    "name": {
+        "en": "Cocos （Keeling） Islands（科科斯",
+        "zh": "基林）群岛",
+        "tc": "基林）群島",
+        "es": "Islas Keeling"
+    },
+    "phoneCode": "+61",
+    "code": "CC"
+}, {
+    "name": {
+        "en": "Colombia",
+        "zh": "哥伦比亚",
+        "tc": "哥倫比亞",
+        "es": "Colombia"
+    },
+    "phoneCode": "+57",
+    "code": "CO"
+}, {
+    "name": {
+        "en": "Comoros",
+        "zh": "科摩罗",
+        "tc": "科摩羅",
+        "es": "Comoras"
+    },
+    "phoneCode": "+269",
+    "code": "KM"
+}, {
+    "name": {
+        "en": "Congo",
+        "zh": "刚果",
+        "tc": "剛果",
+        "es": "Congo"
+    },
+    "phoneCode": "+242",
+    "code": "CG"
+}, {
+    "name": {
+        "en": "Congo, Democratic republic of",
+        "zh": "刚果民主共和国",
+        "tc": "剛果民主共和國",
+        "es": "República Democrática del Congo"
+    },
+    "phoneCode": "+243",
+    "code": "CD"
+}, {
+    "name": {
+        "en": "Cook Islands",
+        "zh": "库克群岛",
+        "tc": "庫克群島",
+        "es": "Islas Cook"
+    },
+    "phoneCode": "+682",
+    "code": "CK"
+}, {
+    "name": {
+        "en": "Costa Rica",
+        "zh": "哥斯达黎加",
+        "tc": "哥斯達黎加",
+        "es": "Costa Rica"
+    },
+    "phoneCode": "+506",
+    "code": "CR"
+}, {
+    "name": {
+        "en": "Cote dIvoire",
+        "zh": "科特迪瓦",
+        "tc": "科特迪瓦",
+        "es": "C ôte d 'Ivoire"
+    },
+    "phoneCode": "+225",
+    "code": "CI"
+}, {
+    "name": {
+        "en": "Croatia",
+        "zh": "克罗地亚",
+        "tc": "克羅地亞",
+        "es": "Croacia"
+    },
+    "phoneCode": "+385",
+    "code": "HR"
+}, {
+    "name": {
+        "en": "Cuba",
+        "zh": "古巴",
+        "tc": "古巴",
+        "es": "Cuba"
+    },
+    "phoneCode": "+53",
+    "code": "CU"
+}, {
+    "name": {
+        "en": "Curacao ",
+        "zh": "库拉索岛",
+        "tc": "庫拉索島",
+        "es": "Curazao"
+    },
+    "phoneCode": "+531",
+    "code": "CW"
+}, {
+    "name": {
+        "en": "Cyprus",
+        "zh": "塞浦路斯",
+        "tc": "塞浦路斯",
+        "es": "Chipre"
+    },
+    "phoneCode": "+357",
+    "code": "CY"
+}, {
+    "name": {
+        "en": "Czech Republic",
+        "zh": "捷克",
+        "tc": "捷克",
+        "es": "República Checa"
+    },
+    "phoneCode": "+420",
+    "code": "CZ"
+}, {
+    "name": {
+        "en": "Denmark",
+        "zh": "丹麦",
+        "tc": "丹麥",
+        "es": "Dinamarca"
+    },
+    "phoneCode": "+45",
+    "code": "DK"
+}, {
+    "name": {
+        "en": "Djibouti",
+        "zh": "吉布提",
+        "tc": "吉布提",
+        "es": "Djibouti"
+    },
+    "phoneCode": "+253",
+    "code": "DJ"
+}, {
+    "name": {
+        "en": "Dominica",
+        "zh": "多明尼加",
+        "tc": "多米尼加",
+        "es": "Dominica"
+    },
+    "phoneCode": "+1767",
+    "code": "DM"
+}, {
+    "name": {
+        "en": "Dominican Republic",
+        "zh": "多米尼加共和国",
+        "tc": "多明尼加共和國",
+        "es": "República Dominicana"
+    },
+    "phoneCode": "+1809",
+    "code": "DO"
+}, {
+    "name": {
+        "en": "Ecuador",
+        "zh": "厄瓜多尔",
+        "tc": "厄瓜多爾",
+        "es": "Ecuador"
+    },
+    "phoneCode": "+593",
+    "code": "EC"
+}, {
+    "name": {
+        "en": "Egypt",
+        "zh": "埃及",
+        "tc": "埃及",
+        "es": "Egipto"
+    },
+    "phoneCode": "+20",
+    "code": "EG"
+}, {
+    "name": {
+        "en": "El Salvador",
+        "zh": "萨尔瓦多",
+        "tc": "薩爾瓦多",
+        "es": "El Salvador"
+    },
+    "phoneCode": "+503",
+    "code": "SV"
+}, {
+    "name": {
+        "en": "Equatorial Guinea",
+        "zh": "赤道几内亚",
+        "tc": "赤道幾內亞",
+        "es": "Guinea Ecuatorial"
+    },
+    "phoneCode": "+240",
+    "code": "GQ"
+}, {
+    "name": {
+        "en": "Eritrea",
+        "zh": "厄立特里亚",
+        "tc": "厄立特里亞",
+        "es": "Eritrea"
+    },
+    "phoneCode": "+291",
+    "code": "ER"
+}, {
+    "name": {
+        "en": "Estonia",
+        "zh": "爱沙尼亚",
+        "tc": "愛沙尼亞",
+        "es": "Estonia"
+    },
+    "phoneCode": "+372",
+    "code": "EE"
+}, {
+    "name": {
+        "en": "Ethiopia",
+        "zh": "埃塞俄比亚",
+        "tc": "埃塞俄比亞",
+        "es": "Etiopía"
+    },
+    "phoneCode": "+251",
+    "code": "ET"
+}, {
+    "name": {
+        "en": "Falkland Islands （Malvinas）（福克蘭群島",
+        "zh": "马尔维纳斯）",
+        "tc": "馬爾維納斯）",
+        "es": "Malvinas)"
+    },
+    "phoneCode": "+500",
+    "code": "FK"
+}, {
+    "name": {
+        "en": "Faroe Islands",
+        "zh": "法罗群岛",
+        "tc": "法羅群島",
+        "es": "Islas Feroe"
+    },
+    "phoneCode": "+298",
+    "code": "FO"
+}, {
+    "name": {
+        "en": "Fiji",
+        "zh": "斐济",
+        "tc": "斐濟",
+        "es": "Fiji"
+    },
+    "phoneCode": "+679",
+    "code": "FJ"
+}, {
+    "name": {
+        "en": "Finland",
+        "zh": "芬兰",
+        "tc": "芬蘭",
+        "es": "Finlandia"
+    },
+    "phoneCode": "+358",
+    "code": "FI"
+}, {
+    "name": {
+        "en": "France",
+        "zh": "法国",
+        "tc": "法國",
+        "es": "Francia"
+    },
+    "phoneCode": "+33",
+    "code": "FR"
+}, {
+    "name": {
+        "en": "French Guiana",
+        "zh": "法属圭亚那",
+        "tc": "法屬圭亞那",
+        "es": "Guyana Francesa"
+    },
+    "phoneCode": "+594",
+    "code": "GF"
+}, {
+    "name": {
+        "en": "French Polynesia",
+        "zh": "法属波利尼西亚",
+        "tc": "法屬波利尼西亞",
+        "es": "Polinesia Francesa"
+    },
+    "phoneCode": "+689",
+    "code": "PF"
+}, {
+    "name": {
+        "en": "French Southern Territories",
+        "zh": "法属南部领地",
+        "tc": "法屬南部領地",
+        "es": "Territorio del Sur francés"
+    },
+    "phoneCode": "+260",
+    "code": "TF"
+}, {
+    "name": {
+        "en": "Gabon",
+        "zh": "加蓬",
+        "tc": "加蓬",
+        "es": "Gabón"
+    },
+    "phoneCode": "+241",
+    "code": "GA"
+}, {
+    "name": {
+        "en": "Gambia",
+        "zh": "冈比亚",
+        "tc": "岡比亞",
+        "es": "Gambia"
+    },
+    "phoneCode": "+220",
+    "code": "GM"
+}, {
+    "name": {
+        "en": "Georgia",
+        "zh": "格鲁吉亚",
+        "tc": "格魯吉亞",
+        "es": "Georgia"
+    },
+    "phoneCode": "+995",
+    "code": "GE"
+}, {
+    "name": {
+        "en": "Germany",
+        "zh": "德国",
+        "tc": "德國",
+        "es": "Alemania"
+    },
+    "phoneCode": "+49",
+    "code": "DE"
+}, {
+    "name": {
+        "en": "Ghana",
+        "zh": "加纳",
+        "tc": "加納",
+        "es": "Ghana"
+    },
+    "phoneCode": "+233",
+    "code": "GH"
+}, {
+    "name": {
+        "en": "Gibraltar",
+        "zh": "直布罗陀",
+        "tc": "直布羅陀",
+        "es": "Gibraltar"
+    },
+    "phoneCode": "+350",
+    "code": "GI"
+}, {
+    "name": {
+        "en": "Greece",
+        "zh": "希腊",
+        "tc": "希臘",
+        "es": "Grecia"
+    },
+    "phoneCode": "+30",
+    "code": "GR"
+}, {
+    "name": {
+        "en": "Greenland",
+        "zh": "格陵兰",
+        "tc": "格陵蘭",
+        "es": "Groenlandia"
+    },
+    "phoneCode": "+299",
+    "code": "GL"
+}, {
+    "name": {
+        "en": "Grenada",
+        "zh": "格林纳达",
+        "tc": "格林納達",
+        "es": "Granada"
+    },
+    "phoneCode": "+1473",
+    "code": "GD"
+}, {
+    "name": {
+        "en": "Guadeloupe",
+        "zh": "瓜德罗普岛",
+        "tc": "瓜德羅普島",
+        "es": "Guadalupe"
+    },
+    "phoneCode": "+590",
+    "code": "GP"
+}, {
+    "name": {
+        "en": "Guam",
+        "zh": "关岛",
+        "tc": "關島",
+        "es": "Guam"
+    },
+    "phoneCode": "+1671",
+    "code": "GU"
+}, {
+    "name": {
+        "en": "Guatemala",
+        "zh": "危地马拉",
+        "tc": "危地馬拉",
+        "es": "Guatemala"
+    },
+    "phoneCode": "+502",
+    "code": "GT"
+}, {
+    "name": {
+        "en": "Guinea",
+        "zh": "几内亚",
+        "tc": "幾內亞",
+        "es": "Guinea"
+    },
+    "phoneCode": "+224",
+    "code": "GN"
+}, {
+    "name": {
+        "en": "Guinea-bissau",
+        "zh": "几内亚比绍",
+        "tc": "幾內亞比紹",
+        "es": "Guinea - Bissau"
+    },
+    "phoneCode": "+245",
+    "code": "GW"
+}, {
+    "name": {
+        "en": "Guyana",
+        "zh": "圭亚那",
+        "tc": "圭亞那",
+        "es": "Guyana"
+    },
+    "phoneCode": "+592",
+    "code": "GY"
+}, {
+    "name": {
+        "en": "Haiti",
+        "zh": "海地",
+        "tc": "海地",
+        "es": "Haití"
+    },
+    "phoneCode": "+509",
+    "code": "HT"
+}, {
+    "name": {
+        "en": "Heard Islands and McDonald Islands",
+        "zh": "赫德群岛和麦克唐纳群岛",
+        "tc": "赫德群島和麥克唐納群島",
+        "es": "Las Islas Hurd y McDonald 's"
+    },
+    "phoneCode": "+334",
+    "code": "HM"
+}, {
+    "name": {
+        "en": "Honduras",
+        "zh": "洪都拉斯",
+        "tc": "洪都拉斯",
+        "es": "Honduras"
+    },
+    "phoneCode": "+504",
+    "code": "HN"
+}, {
+    "name": {
+        "en": "Hong Kong, China",
+        "zh": "中国香港",
+        "tc": "中國香港",
+        "es": "Hong Kong, China"
+    },
+    "phoneCode": "+852",
+    "code": "HK"
+}, {
+    "name": {
+        "en": "Hungary",
+        "zh": "匈牙利",
+        "tc": "匈牙利",
+        "es": "Hungría"
+    },
+    "phoneCode": "+36",
+    "code": "HU"
+}, {
+    "name": {
+        "en": "Iceland",
+        "zh": "冰岛",
+        "tc": "冰島",
+        "es": "Islandia"
+    },
+    "phoneCode": "+354",
+    "code": "IS"
+}, {
+    "name": {
+        "en": "India",
+        "zh": "印度",
+        "tc": "印度",
+        "es": "India"
+    },
+    "phoneCode": "+91",
+    "code": "IN"
+}, {
+    "name": {
+        "en": "Indonesia",
+        "zh": "印度尼西亚",
+        "tc": "印度尼西亞",
+        "es": "Indonesia"
+    },
+    "phoneCode": "+62",
+    "code": "ID"
+}, {
+    "name": {
+        "en": "Iran",
+        "zh": "伊朗",
+        "tc": "伊朗",
+        "es": "Irán"
+    },
+    "phoneCode": "+98",
+    "code": "IR"
+}, {
+    "name": {
+        "en": "Iraq",
+        "zh": "伊拉克",
+        "tc": "伊拉克",
+        "es": "Iraq"
+    },
+    "phoneCode": "+964",
+    "code": "IQ"
+}, {
+    "name": {
+        "en": "Ireland",
+        "zh": "爱尔兰",
+        "tc": "愛爾蘭",
+        "es": "Irlanda"
+    },
+    "phoneCode": "+353",
+    "code": "IE"
+}, {
+    "name": {
+        "en": "Israel",
+        "zh": "以色列",
+        "tc": "以色列",
+        "es": "Israel"
+    },
+    "phoneCode": "+972",
+    "code": "IL"
+}, {
+    "name": {
+        "en": "Italy",
+        "zh": "意大利",
+        "tc": "意大利",
+        "es": "Italia"
+    },
+    "phoneCode": "+39",
+    "code": "IT"
+}, {
+    "name": {
+        "en": "Jamaica",
+        "zh": "牙买加",
+        "tc": "牙買加",
+        "es": "Jamaica"
+    },
+    "phoneCode": "+1876",
+    "code": "JM"
+}, {
+    "name": {
+        "en": "Japan",
+        "zh": "日本",
+        "tc": "日本",
+        "es": "Japón"
+    },
+    "phoneCode": "+81",
+    "code": "JP"
+}, {
+    "name": {
+        "en": "Jordan",
+        "zh": "约旦",
+        "tc": "約旦",
+        "es": "Jordania"
+    },
+    "phoneCode": "+962",
+    "code": "JO"
+}, {
+    "name": {
+        "en": "Kazakstan",
+        "zh": "哈萨克斯坦",
+        "tc": "哈薩克斯坦",
+        "es": "Kazajstán"
+    },
+    "phoneCode": "+7",
+    "code": "KZ"
+}, {
+    "name": {
+        "en": "Kenya",
+        "zh": "肯尼亚",
+        "tc": "肯尼亞",
+        "es": "Kenya"
+    },
+    "phoneCode": "+254",
+    "code": "KE"
+}, {
+    "name": {
+        "en": "Kiribati",
+        "zh": "基里巴斯",
+        "tc": "基里巴斯",
+        "es": "Kiribati"
+    },
+    "phoneCode": "+686",
+    "code": "KI"
+}, {
+    "name": {
+        "en": "Korea, Democratic Peoples Republic of",
+        "zh": "朝鲜",
+        "tc": "朝鮮",
+        "es": "Corea del Norte"
+    },
+    "phoneCode": "+850",
+    "code": "KP"
+}, {
+    "name": {
+        "en": "Korea, Republic of",
+        "zh": "韩国",
+        "tc": "韓國",
+        "es": "Corea del Sur"
+    },
+    "phoneCode": "+82",
+    "code": "KR"
+}, {
+    "name": {
+        "en": "Kuwait",
+        "zh": "科威特",
+        "tc": "科威特",
+        "es": "Kuwait"
+    },
+    "phoneCode": "+965",
+    "code": "KW"
+}, {
+    "name": {
+        "en": "Kyrgyzstan",
+        "zh": "吉尔吉斯斯坦",
+        "tc": "吉爾吉斯斯坦",
+        "es": "Kirguistán"
+    },
+    "phoneCode": "+996",
+    "code": "KG"
+}, {
+    "name": {
+        "en": "Lao",
+        "zh": "老挝",
+        "tc": "老撾",
+        "es": "Laos"
+    },
+    "phoneCode": "+856",
+    "code": "LA"
+}, {
+    "name": {
+        "en": "Latvia",
+        "zh": "拉脱维亚",
+        "tc": "拉脫維亞",
+        "es": "Letonia"
+    },
+    "phoneCode": "+371",
+    "code": "LV"
+}, {
+    "name": {
+        "en": "Lebanon",
+        "zh": "黎巴嫩",
+        "tc": "黎巴嫩",
+        "es": "Líbano"
+    },
+    "phoneCode": "+961",
+    "code": "LB"
+}, {
+    "name": {
+        "en": "Lesotho",
+        "zh": "莱索托",
+        "tc": "萊索托",
+        "es": "Lesotho"
+    },
+    "phoneCode": "+266",
+    "code": "LS"
+}, {
+    "name": {
+        "en": "Liberia",
+        "zh": "利比里亚",
+        "tc": "利比里亞",
+        "es": "Liberia"
+    },
+    "phoneCode": "+231",
+    "code": "LR"
+}, {
+    "name": {
+        "en": "Libya",
+        "zh": "利比亚",
+        "tc": "利比亞",
+        "es": "Libia"
+    },
+    "phoneCode": "+218",
+    "code": "LY"
+}, {
+    "name": {
+        "en": "Liechtenstein",
+        "zh": "列支敦士登",
+        "tc": "列支敦士登",
+        "es": "Liechtenstein"
+    },
+    "phoneCode": "+423",
+    "code": "LI"
+}, {
+    "name": {
+        "en": "Lithuania",
+        "zh": "立陶宛",
+        "tc": "立陶宛",
+        "es": "Lituania"
+    },
+    "phoneCode": "+370",
+    "code": "LT"
+}, {
+    "name": {
+        "en": "Luxembourg",
+        "zh": "卢森堡",
+        "tc": "盧森堡",
+        "es": "Luxemburgo"
+    },
+    "phoneCode": "+352",
+    "code": "LU"
+}, {
+    "name": {
+        "en": "Macau, China",
+        "zh": "中国澳门",
+        "tc": "中國澳門",
+        "es": "Macao, China"
+    },
+    "phoneCode": "+853",
+    "code": "MO"
+}, {
+    "name": {
+        "en": "Macedonia",
+        "zh": "马其顿",
+        "tc": "馬其頓",
+        "es": "Macedonia"
+    },
+    "phoneCode": "+389",
+    "code": "MK"
+}, {
+    "name": {
+        "en": "Madagascar",
+        "zh": "马达加斯加",
+        "tc": "馬達加斯加",
+        "es": "Madagascar"
+    },
+    "phoneCode": "+261",
+    "code": "MG"
+}, {
+    "name": {
+        "en": "Malawi",
+        "zh": "马拉维",
+        "tc": "馬拉維",
+        "es": "Malawi"
+    },
+    "phoneCode": "+265",
+    "code": "MW"
+}, {
+    "name": {
+        "en": "Malaysia",
+        "zh": "马来西亚",
+        "tc": "馬來西亞",
+        "es": "Malasia"
+    },
+    "phoneCode": "+60",
+    "code": "MY"
+}, {
+    "name": {
+        "en": "Maldives",
+        "zh": "马尔代夫",
+        "tc": "馬爾代夫",
+        "es": "Maldivas"
+    },
+    "phoneCode": "+960",
+    "code": "MV"
+}, {
+    "name": {
+        "en": "Mali",
+        "zh": "马里",
+        "tc": "馬里",
+        "es": "Malí"
+    },
+    "phoneCode": "+223",
+    "code": "ML"
+}, {
+    "name": {
+        "en": "Malta",
+        "zh": "马耳他",
+        "tc": "馬耳他",
+        "es": "Malta"
+    },
+    "phoneCode": "+356",
+    "code": "MT"
+}, {
+    "name": {
+        "en": "Marshall Islands",
+        "zh": "马绍尔群岛",
+        "tc": "馬紹爾群島",
+        "es": "Islas Marshall"
+    },
+    "phoneCode": "+692",
+    "code": "MH"
+}, {
+    "name": {
+        "en": "Martinique",
+        "zh": "法属马丁尼克",
+        "tc": "法屬馬丁尼克",
+        "es": "Martinica francesa"
+    },
+    "phoneCode": "+596",
+    "code": "MQ"
+}, {
+    "name": {
+        "en": "Mauritania",
+        "zh": "毛里塔尼亚",
+        "tc": "毛里塔尼亞",
+        "es": "Mauritania"
+    },
+    "phoneCode": "+222",
+    "code": "MR"
+}, {
+    "name": {
+        "en": "Mauritius",
+        "zh": "毛里求斯",
+        "tc": "毛里求斯",
+        "es": "Mauricio"
+    },
+    "phoneCode": "+230",
+    "code": "MU"
+}, {
+    "name": {
+        "en": "Mayotte",
+        "zh": "马约特",
+        "tc": "馬約特",
+        "es": "Mayotte"
+    },
+    "phoneCode": "+262",
+    "code": "YT"
+}, {
+    "name": {
+        "en": "Mexico",
+        "zh": "墨西哥",
+        "tc": "墨西哥",
+        "es": "México"
+    },
+    "phoneCode": "+52",
+    "code": "MX"
+}, {
+    "name": {
+        "en": "Micronesia",
+        "zh": "密克罗尼西亚",
+        "tc": "密克羅尼西亞",
+        "es": "Micronesia"
+    },
+    "phoneCode": "+691",
+    "code": "FM"
+}, {
+    "name": {
+        "en": "Moldova",
+        "zh": "摩尔多瓦",
+        "tc": "摩爾多瓦",
+        "es": "Moldova"
+    },
+    "phoneCode": "+373",
+    "code": "MD"
+}, {
+    "name": {
+        "en": "Monaco",
+        "zh": "摩纳哥",
+        "tc": "摩納哥",
+        "es": "Mónaco"
+    },
+    "phoneCode": "+377",
+    "code": "MC"
+}, {
+    "name": {
+        "en": "Mongolia",
+        "zh": "蒙古",
+        "tc": "蒙古",
+        "es": "Mongolia"
+    },
+    "phoneCode": "+976",
+    "code": "MN"
+}, {
+    "name": {
+        "en": "Montenegro",
+        "zh": "黑山",
+        "tc": "黑山",
+        "es": "Montenegro"
+    },
+    "phoneCode": "+382",
+    "code": "ME"
+}, {
+    "name": {
+        "en": "Montserrat",
+        "zh": "英属蒙塞拉特岛",
+        "tc": "英屬蒙塞拉特島",
+        "es": "Montserrat, Reino Unido"
+    },
+    "phoneCode": "+1664",
+    "code": "MS"
+}, {
+    "name": {
+        "en": "Morocco",
+        "zh": "摩洛哥",
+        "tc": "摩洛哥",
+        "es": "Marruecos"
+    },
+    "phoneCode": "+212",
+    "code": "MA"
+}, {
+    "name": {
+        "en": "Mozambique",
+        "zh": "莫桑比克",
+        "tc": "莫桑比克",
+        "es": "Mozambique"
+    },
+    "phoneCode": "+258",
+    "code": "MZ"
+}, {
+    "name": {
+        "en": "Myanmar",
+        "zh": "缅甸",
+        "tc": "緬甸",
+        "es": "Myanmar"
+    },
+    "phoneCode": "+95",
+    "code": "MM"
+}, {
+    "name": {
+        "en": "Namibia",
+        "zh": "纳米比亚",
+        "tc": "納米比亞",
+        "es": "Namibia"
+    },
+    "phoneCode": "+264",
+    "code": "NA"
+}, {
+    "name": {
+        "en": "Nauru",
+        "zh": "瑙鲁",
+        "tc": "瑙魯",
+        "es": "Nauru"
+    },
+    "phoneCode": "+674",
+    "code": "NR"
+}, {
+    "name": {
+        "en": "Nepal",
+        "zh": "尼泊尔",
+        "tc": "尼泊爾",
+        "es": "Nepal"
+    },
+    "phoneCode": "+977",
+    "code": "NP"
+}, {
+    "name": {
+        "en": "Netherlands",
+        "zh": "荷兰",
+        "tc": "荷蘭",
+        "es": "Países Bajos"
+    },
+    "phoneCode": "+31",
+    "code": "NL"
+}, {
+    "name": {
+        "en": "Netherlands Antilles",
+        "zh": "荷属安第列斯",
+        "tc": "荷屬安第列斯",
+        "es": "Antillas Neerlandesas"
+    },
+    "phoneCode": "+599",
+    "code": "AN"
+}, {
+    "name": {
+        "en": "New Caledonia",
+        "zh": "新喀里多尼亚",
+        "tc": "新喀里多尼亞",
+        "es": "Nueva Caledonia"
+    },
+    "phoneCode": "+687",
+    "code": "NC"
+}, {
+    "name": {
+        "en": "New Zealand",
+        "zh": "新西兰",
+        "tc": "新西蘭",
+        "es": "Nueva Zelanda"
+    },
+    "phoneCode": "+64",
+    "code": "NZ"
+}, {
+    "name": {
+        "en": "Nicaragua",
+        "zh": "尼加拉瓜",
+        "tc": "尼加拉瓜",
+        "es": "Nicaragua"
+    },
+    "phoneCode": "+505",
+    "code": "NI"
+}, {
+    "name": {
+        "en": "Niger",
+        "zh": "尼日尔",
+        "tc": "尼日爾",
+        "es": "Níger"
+    },
+    "phoneCode": "+227",
+    "code": "NE"
+}, {
+    "name": {
+        "en": "Nigeria",
+        "zh": "尼日利亚",
+        "tc": "尼日利亞",
+        "es": "Nigeria"
+    },
+    "phoneCode": "+234",
+    "code": "NG"
+}, {
+    "name": {
+        "en": "Niue",
+        "zh": "纽埃",
+        "tc": "紐埃",
+        "es": "Niue"
+    },
+    "phoneCode": "+683",
+    "code": "NU"
+}, {
+    "name": {
+        "en": "Norfolk Island",
+        "zh": "诺福克岛",
+        "tc": "諾福克島",
+        "es": "Isla Norfolk"
+    },
+    "phoneCode": "+672",
+    "code": "NF"
+}, {
+    "name": {
+        "en": "Northern Marianas Islands",
+        "zh": "北马里亚纳群岛",
+        "tc": "北馬里亞納群島",
+        "es": "Islas Marianas Septentrionales"
+    },
+    "phoneCode": "+1670",
+    "code": "MP"
+}, {
+    "name": {
+        "en": "Norway",
+        "zh": "挪威",
+        "tc": "挪威",
+        "es": "Noruega"
+    },
+    "phoneCode": "+47",
+    "code": "NO"
+}, {
+    "name": {
+        "en": "Oman",
+        "zh": "阿曼",
+        "tc": "阿曼",
+        "es": "Omán"
+    },
+    "phoneCode": "+968",
+    "code": "OM"
+}, {
+    "name": {
+        "en": "Pakistan",
+        "zh": "巴基斯坦",
+        "tc": "巴基斯坦",
+        "es": "Pakistán"
+    },
+    "phoneCode": "+92",
+    "code": "PK"
+}, {
+    "name": {
+        "en": "Palau",
+        "zh": "帕劳群岛",
+        "tc": "帕勞群島",
+        "es": "Islas Palau"
+    },
+    "phoneCode": "+680",
+    "code": "PW"
+}, {
+    "name": {
+        "en": "Palestine",
+        "zh": "巴勒斯坦",
+        "tc": "巴勒斯坦",
+        "es": "Palestina"
+    },
+    "phoneCode": "+970",
+    "code": "PS"
+}, {
+    "name": {
+        "en": "Panama",
+        "zh": "巴拿马",
+        "tc": "巴拿馬",
+        "es": "Panamá"
+    },
+    "phoneCode": "+507",
+    "code": "PA"
+}, {
+    "name": {
+        "en": "Papua New Guinea",
+        "zh": "巴布亚新几内亚",
+        "tc": "巴布亞新幾內亞",
+        "es": "Papua Nueva Guinea"
+    },
+    "phoneCode": "+675",
+    "code": "PG"
+}, {
+    "name": {
+        "en": "Paraguay",
+        "zh": "巴拉圭",
+        "tc": "巴拉圭",
+        "es": "Paraguay"
+    },
+    "phoneCode": "+595",
+    "code": "PY"
+}, {
+    "name": {
+        "en": "Peru",
+        "zh": "秘鲁",
+        "tc": "秘魯",
+        "es": "Perú"
+    },
+    "phoneCode": "+51",
+    "code": "PE"
+}, {
+    "name": {
+        "en": "Philippines",
+        "zh": "菲律宾",
+        "tc": "菲律賓",
+        "es": "Filipinas"
+    },
+    "phoneCode": "+63",
+    "code": "PH"
+}, {
+    "name": {
+        "en": "Pitcairn",
+        "zh": "皮特凯恩",
+        "tc": "皮特凱恩",
+        "es": "Pitcairn"
+    },
+    "phoneCode": "+870",
+    "code": "PN"
+}, {
+    "name": {
+        "en": "Poland",
+        "zh": "波兰",
+        "tc": "波蘭",
+        "es": "Polonia"
+    },
+    "phoneCode": "+48",
+    "code": "PL"
+}, {
+    "name": {
+        "en": "Portugal",
+        "zh": "葡萄牙",
+        "tc": "葡萄牙",
+        "es": "Portugal"
+    },
+    "phoneCode": "+351",
+    "code": "PT"
+}, {
+    "name": {
+        "en": "Puerto Rico",
+        "zh": "波多黎各",
+        "tc": "波多黎各",
+        "es": "Puerto Rico"
+    },
+    "phoneCode": "+1",
+    "code": "PR"
+}, {
+    "name": {
+        "en": "Qatar",
+        "zh": "卡塔尔",
+        "tc": "卡塔爾",
+        "es": "Qatar"
+    },
+    "phoneCode": "+974",
+    "code": "QA"
+}, {
+    "name": {
+        "en": "Reunion",
+        "zh": "团圆",
+        "tc": "團圓",
+        "es": "Reunión"
+    },
+    "phoneCode": "+262",
+    "code": "RE"
+}, {
+    "name": {
+        "en": "Romania",
+        "zh": "罗马尼亚",
+        "tc": "羅馬尼亞",
+        "es": "Rumania"
+    },
+    "phoneCode": "+40",
+    "code": "RO"
+}, {
+    "name": {
+        "en": "Russia",
+        "zh": "俄罗斯",
+        "tc": "俄羅斯",
+        "es": "Rusia"
+    },
+    "phoneCode": "+7",
+    "code": "RU"
+}, {
+    "name": {
+        "en": "Rwanda",
+        "zh": "卢旺达",
+        "tc": "盧旺達",
+        "es": "Rwanda"
+    },
+    "phoneCode": "+250",
+    "code": "RW"
+}, {
+    "name": {
+        "en": "Saint Barthelemy",
+        "zh": "圣巴泰勒米",
+        "tc": "聖巴泰勒米",
+        "es": "San Bartolomé"
+    },
+    "phoneCode": "+590",
+    "code": "BL"
+}, {
+    "name": {
+        "en": "Saint Helena",
+        "zh": "圣赫勒拿",
+        "tc": "聖赫勒拿",
+        "es": "Santa Elena"
+    },
+    "phoneCode": "+290",
+    "code": "SH"
+}, {
+    "name": {
+        "en": "Saint Kitts and Nevis",
+        "zh": "圣基茨和尼维斯",
+        "tc": "圣基茨和尼維斯",
+        "es": "Saint Kitts y Nevis"
+    },
+    "phoneCode": "+1869",
+    "code": "KN"
+}, {
+    "name": {
+        "en": "Saint Lucia",
+        "zh": "圣卢西亚",
+        "tc": "圣盧西亞",
+        "es": "Santa Lucía"
+    },
+    "phoneCode": "+1758",
+    "code": "LC"
+}, {
+    "name": {
+        "en": "Saint Martin",
+        "zh": "圣马丁",
+        "tc": "聖馬丁",
+        "es": "San Martín"
+    },
+    "phoneCode": "+1599",
+    "code": "MF"
+}, {
+    "name": {
+        "en": "Saint Pierre and Miquelon",
+        "zh": "圣皮埃尔和密克隆",
+        "tc": "聖皮埃爾和密克隆",
+        "es": "San Pedro y Miquelón"
+    },
+    "phoneCode": "+508",
+    "code": "PM"
+}, {
+    "name": {
+        "en": "Saint Vincent and Grenadines",
+        "zh": "圣文森特和格林纳丁斯",
+        "tc": "聖文森特和格林納丁斯",
+        "es": "San Vicente y las Granadinas"
+    },
+    "phoneCode": "+1784",
+    "code": "VC"
+}, {
+    "name": {
+        "en": "Samoa",
+        "zh": "美属萨摩亚",
+        "tc": "美屬薩摩亞",
+        "es": "Samoa Americana"
+    },
+    "phoneCode": "+685",
+    "code": "WS"
+}, {
+    "name": {
+        "en": "San Marino",
+        "zh": "圣马力诺",
+        "tc": "圣馬力諾",
+        "es": "San Marino"
+    },
+    "phoneCode": "+378",
+    "code": "SM"
+}, {
+    "name": {
+        "en": "Sao Tome and Principe",
+        "zh": "圣多美和普林西比",
+        "tc": "圣多美和普林西比",
+        "es": "Santo Tomé y Príncipe"
+    },
+    "phoneCode": "+239",
+    "code": "ST"
+}, {
+    "name": {
+        "en": "Saudi Arabia",
+        "zh": "沙特阿拉伯",
+        "tc": "沙特阿拉伯",
+        "es": "Arabia Saudita"
+    },
+    "phoneCode": "+966",
+    "code": "SA"
+}, {
+    "name": {
+        "en": "Senegal",
+        "zh": "塞内加尔",
+        "tc": "塞內加爾",
+        "es": "Senegal"
+    },
+    "phoneCode": "+221",
+    "code": "SN"
+}, {
+    "name": {
+        "en": "SERBIA",
+        "zh": "塞尔维亚",
+        "tc": "塞爾維亞",
+        "es": "Serbia"
+    },
+    "phoneCode": "+381",
+    "code": "RS"
+}, {
+    "name": {
+        "en": "Seychelles",
+        "zh": "塞舌尔",
+        "tc": "塞舌爾",
+        "es": "Seychelles"
+    },
+    "phoneCode": "+248",
+    "code": "SC"
+}, {
+    "name": {
+        "en": "Sierra Leone",
+        "zh": "塞拉利昂",
+        "tc": "塞拉利昂",
+        "es": "Sierra Leona"
+    },
+    "phoneCode": "+232",
+    "code": "SL"
+}, {
+    "name": {
+        "en": "Singapore",
+        "zh": "新加坡",
+        "tc": "新加坡",
+        "es": "Singapur"
+    },
+    "phoneCode": "+65",
+    "code": "SG"
+}, {
+    "name": {
+        "en": "Sint Maarten",
+        "zh": "荷属圣马丁",
+        "tc": "荷屬聖馬丁",
+        "es": "San Martín neerlandés"
+    },
+    "phoneCode": "+599",
+    "code": "SX"
+}, {
+    "name": {
+        "en": "Slovakia",
+        "zh": "斯洛伐克",
+        "tc": "斯洛伐克",
+        "es": "Eslovaquia"
+    },
+    "phoneCode": "+421",
+    "code": "SK"
+}, {
+    "name": {
+        "en": "Slovenia",
+        "zh": "斯洛文尼亚",
+        "tc": "斯洛文尼亞",
+        "es": "Eslovenia"
+    },
+    "phoneCode": "+386",
+    "code": "SI"
+}, {
+    "name": {
+        "en": "Solomon Islands",
+        "zh": "所罗门群岛",
+        "tc": "所羅門群島",
+        "es": "Islas Salomón"
+    },
+    "phoneCode": "+677",
+    "code": "SB"
+}, {
+    "name": {
+        "en": "Somalia",
+        "zh": "索马里",
+        "tc": "索馬里",
+        "es": "Somalia"
+    },
+    "phoneCode": "+252",
+    "code": "SO"
+}, {
+    "name": {
+        "en": "South Africa",
+        "zh": "南非",
+        "tc": "南非",
+        "es": "Sudáfrica"
+    },
+    "phoneCode": "+27",
+    "code": "ZA"
+}, {
+    "name": {
+        "en": "South Georgia and the SouthSandwich Islands",
+        "zh": "南乔治亚和南桑德维奇群岛",
+        "tc": "南喬治亞和南桑德維奇群島",
+        "es": "Georgia del Sur y Sandwich del Sur"
+    },
+    "phoneCode": "+239",
+    "code": "GS"
+}, {
+    "name": {
+        "en": "South Sudan",
+        "zh": "南苏丹",
+        "tc": "南蘇丹",
+        "es": "Sudán del Sur"
+    },
+    "phoneCode": "+211",
+    "code": "SS"
+}, {
+    "name": {
+        "en": "Spain",
+        "zh": "西班牙",
+        "tc": "西班牙",
+        "es": "España"
+    },
+    "phoneCode": "+34",
+    "code": "ES"
+}, {
+    "name": {
+        "en": "Sri Lanka",
+        "zh": "斯里兰卡",
+        "tc": "斯里蘭卡",
+        "es": "Sri Lanka"
+    },
+    "phoneCode": "+94",
+    "code": "LK"
+}, {
+    "name": {
+        "en": "Sudan",
+        "zh": "苏丹",
+        "tc": "蘇丹",
+        "es": "Sudán"
+    },
+    "phoneCode": "+249",
+    "code": "SD"
+}, {
+    "name": {
+        "en": "Suriname",
+        "zh": "苏里南",
+        "tc": "蘇里南",
+        "es": "Suriname"
+    },
+    "phoneCode": "+597",
+    "code": "SR"
+}, {
+    "name": {
+        "en": "Svalbard and Jan Mayen",
+        "zh": "斯瓦尔巴和杨梅",
+        "tc": "斯瓦爾巴和楊梅",
+        "es": "Svalbard y Myrica rubra"
+    },
+    "phoneCode": "+47",
+    "code": "SJ"
+}, {
+    "name": {
+        "en": "Swaziland",
+        "zh": "斯威士兰",
+        "tc": "斯威士蘭",
+        "es": "Swazilandia"
+    },
+    "phoneCode": "+268",
+    "code": "SZ"
+}, {
+    "name": {
+        "en": "Sweden",
+        "zh": "瑞典",
+        "tc": "瑞典",
+        "es": "Suecia"
+    },
+    "phoneCode": "+46",
+    "code": "SE"
+}, {
+    "name": {
+        "en": "Switzerland",
+        "zh": "瑞士",
+        "tc": "瑞士",
+        "es": "Suiza"
+    },
+    "phoneCode": "+41",
+    "code": "CH"
+}, {
+    "name": {
+        "en": "Syria",
+        "zh": "叙利亚",
+        "tc": "敘利亞",
+        "es": "Siria"
+    },
+    "phoneCode": "+963",
+    "code": "SY"
+}, {
+    "name": {
+        "en": "Taiwan, China",
+        "zh": "中国台湾",
+        "tc": "中國台灣",
+        "es": "China Taiwán"
+    },
+    "phoneCode": "+886",
+    "code": "TW"
+}, {
+    "name": {
+        "en": "Tajikistan",
+        "zh": "塔吉克斯坦",
+        "tc": "塔吉克斯坦",
+        "es": "Tayikistán"
+    },
+    "phoneCode": "+992",
+    "code": "TJ"
+}, {
+    "name": {
+        "en": "Tanzania",
+        "zh": "坦桑尼亚",
+        "tc": "坦桑尼亞",
+        "es": "Tanzania"
+    },
+    "phoneCode": "+255",
+    "code": "TZ"
+}, {
+    "name": {
+        "en": "Thailand",
+        "zh": "泰国",
+        "tc": "泰國",
+        "es": "Tailandia"
+    },
+    "phoneCode": "+66",
+    "code": "TH"
+}, {
+    "name": {
+        "en": "Timor-Leste（East Timor）",
+        "zh": "东帝汶",
+        "tc": "東帝汶",
+        "es": "Timor Oriental"
+    },
+    "phoneCode": "+670",
+    "code": "TL"
+}, {
+    "name": {
+        "en": "Togo",
+        "zh": "多哥",
+        "tc": "多哥",
+        "es": "Togo"
+    },
+    "phoneCode": "+228",
+    "code": "TG"
+}, {
+    "name": {
+        "en": "Tokelau",
+        "zh": "托克劳",
+        "tc": "托克勞",
+        "es": "Tokelau"
+    },
+    "phoneCode": "+690",
+    "code": "TK"
+}, {
+    "name": {
+        "en": "Tonga",
+        "zh": "汤加",
+        "tc": "湯加",
+        "es": "Tonga"
+    },
+    "phoneCode": "+676",
+    "code": "TO"
+}, {
+    "name": {
+        "en": "Trinidad and Tobago",
+        "zh": "特立尼达和多巴哥",
+        "tc": "特立尼達和多巴哥",
+        "es": "Trinidad y Tabago"
+    },
+    "phoneCode": "+1868",
+    "code": "TT"
+}, {
+    "name": {
+        "en": "Tunisia",
+        "zh": "突尼斯",
+        "tc": "突尼斯",
+        "es": "Túnez"
+    },
+    "phoneCode": "+216",
+    "code": "TN"
+}, {
+    "name": {
+        "en": "Turkey",
+        "zh": "土耳其",
+        "tc": "土耳其",
+        "es": "Turquía"
+    },
+    "phoneCode": "+90",
+    "code": "TR"
+}, {
+    "name": {
+        "en": "Turkmenstan",
+        "zh": "土库曼斯坦",
+        "tc": "土庫曼斯坦",
+        "es": "Turkmenistán"
+    },
+    "phoneCode": "+993",
+    "code": "TM"
+}, {
+    "name": {
+        "en": "Turks and Caicos Islands",
+        "zh": "特克斯和凯科斯群岛",
+        "tc": "特克斯和凱科斯群島",
+        "es": "Islas Turcas y Caicos"
+    },
+    "phoneCode": "+1649",
+    "code": "TC"
+}, {
+    "name": {
+        "en": "Tuvalu",
+        "zh": "图瓦卢",
+        "tc": "圖瓦盧",
+        "es": "Tuvalu"
+    },
+    "phoneCode": "+688",
+    "code": "TV"
+}, {
+    "name": {
+        "en": "Uganda",
+        "zh": "乌干达",
+        "tc": "烏干達",
+        "es": "Uganda"
+    },
+    "phoneCode": "+256",
+    "code": "UG"
+}, {
+    "name": {
+        "en": "Ukraine",
+        "zh": "乌克兰",
+        "tc": "烏克蘭",
+        "es": "Ucrania"
+    },
+    "phoneCode": "+380",
+    "code": "UA"
+}, {
+    "name": {
+        "en": "United Arab Emirates",
+        "zh": "阿联酋",
+        "tc": "阿聯酋",
+        "es": "Emiratos Árabes Unidos"
+    },
+    "phoneCode": "+971",
+    "code": "AE"
+}, {
+    "name": {
+        "en": "United Kingdom",
+        "zh": "英国",
+        "tc": "英國",
+        "es": "Reino Unido"
+    },
+    "phoneCode": "+44",
+    "code": "GB"
+}, {
+    "name": {
+        "en": "United States",
+        "zh": "美国",
+        "tc": "美國",
+        "es": "Estados Unidos"
+    },
+    "phoneCode": "+1",
+    "code": "US"
+}, {
+    "name": {
+        "en": "United States Minor outlying Islands",
+        "zh": "美国小岛离岛",
+        "tc": "美國小島離島",
+        "es": "Islas pequeñas de los Estados Unidos"
+    },
+    "phoneCode": "+1",
+    "code": "UM"
+}, {
+    "name": {
+        "en": "Uruguay",
+        "zh": "乌拉圭",
+        "tc": "烏拉圭",
+        "es": "Uruguay"
+    },
+    "phoneCode": "+598",
+    "code": "UY"
+}, {
+    "name": {
+        "en": "Uzbekistan",
+        "zh": "乌兹别克斯坦",
+        "tc": "烏茲別克斯坦",
+        "es": "Uzbekistán"
+    },
+    "phoneCode": "+998",
+    "code": "UZ"
+}, {
+    "name": {
+        "en": "Vanuatu",
+        "zh": "瓦努阿图",
+        "tc": "瓦努阿圖",
+        "es": "Vanuatu"
+    },
+    "phoneCode": "+678",
+    "code": "VU"
+}, {
+    "name": {
+        "en": "Vatican",
+        "zh": "梵蒂冈",
+        "tc": "梵蒂岡",
+        "es": "Vaticano"
+    },
+    "phoneCode": "+39",
+    "code": "VA"
+}, {
+    "name": {
+        "en": "Venezuela",
+        "zh": "委内瑞拉",
+        "tc": "委內瑞拉",
+        "es": "Venezuela"
+    },
+    "phoneCode": "+58",
+    "code": "VE"
+}, {
+    "name": {
+        "en": "Viet Nam",
+        "zh": "越南",
+        "tc": "越南",
+        "es": "Viet Nam"
+    },
+    "phoneCode": "+84",
+    "code": "VN"
+}, {
+    "name": {
+        "en": "Virgin Islands, British",
+        "zh": "维尔京群岛，英国",
+        "tc": "維爾京群島，英國",
+        "es": "Islas Vírgenes, Reino Unido"
+    },
+    "phoneCode": "+1284",
+    "code": "VG"
+}, {
+    "name": {
+        "en": "Virgin Islands, U.S.",
+        "zh": "美属维尔京群岛",
+        "tc": "美屬維爾京群島",
+        "es": "Islas Vírgenes de los Estados Unidos"
+    },
+    "phoneCode": "+1340",
+    "code": "VI"
+}, {
+    "name": {
+        "en": "Wallis and Futuna",
+        "zh": "瓦利斯和富图纳",
+        "tc": "瓦利斯和富圖納",
+        "es": "Wallis y Futuna"
+    },
+    "phoneCode": "+681",
+    "code": "WF"
+}, {
+    "name": {
+        "en": "Western Sahara",
+        "zh": "西撒哈拉",
+        "tc": "西撒哈拉",
+        "es": "Sáhara Occidental"
+    },
+    "phoneCode": "+212",
+    "code": "EH"
+}, {
+    "name": {
+        "en": "Yemen",
+        "zh": "也门",
+        "tc": "也門",
+        "es": "Yemen"
+    },
+    "phoneCode": "+967",
+    "code": "YE"
+}, {
+    "name": {
+        "en": "Zambia",
+        "zh": "赞比亚",
+        "tc": "贊比亞",
+        "es": "Zambia"
+    },
+    "phoneCode": "+260",
+    "code": "ZM"
+}, {
+    "name": {
+        "en": "Zimbabwe",
+        "zh": "津巴布韦",
+        "tc": "津巴布韋",
+        "es": "Zimbabwe"
+    },
+    "phoneCode": "+263",
+    "code": "ZW"
+}]

@@ -1,0 +1,62 @@
+{
+  "name": "LLTrip-WebService",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "egg": {
+    "declarations": true
+  },
+  "dependencies": {
+    "@alicloud/dysmsapi20170525": "^2.0.23",
+    "@lipingruan/node-unionpay-sdk": "^0.0.7",
+    "@paypal/checkout-server-sdk": "^1.0.3",
+    "art-template": "^4.13.2",
+    "bcryptjs": "^2.4.3",
+    "canvas": "^2.11.2",
+    "egg": "^2.37.0",
+    "egg-cluster": "^1.27.1",
+    "egg-cors": "^2.2.3",
+    "egg-jwt": "^3.1.7",
+    "egg-mongoose": "^3.3.1",
+    "egg-redis": "^2.5.0",
+    "egg-scripts": "^2.17.0",
+    "jsexecpy": "^1.1.0",
+    "momentjs": "^2.0.0",
+    "nodemailer": "^6.9.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "autod": "^3.1.2",
+    "autod-egg": "^1.1.0",
+    "egg-bin": "^4.20.0",
+    "egg-ci": "^1.19.1",
+    "egg-mock": "^3.26.0",
+    "eslint": "^5.16.0",
+    "eslint-config-egg": "^7.5.1",
+    "momentjs": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "scripts": {
+    "start": "egg-scripts start --daemon --title=egg-server-LLTrip-WebService --port=443 --https.key=/opt/LLTrip-WebService/www.skywinghub.com.key --https.cert=/opt/LLTrip-WebService/www.skywinghub.com.pem",
+    "stop": "egg-scripts stop --title=egg-server-LLTrip-WebService",
+    "dev": "egg-bin dev --port=7001",
+    "debug": "egg-bin debug",
+    "test": "npm run lint -- --fix && npm run test-local",
+    "test-local": "egg-bin test",
+    "cov": "egg-bin cov",
+    "lint": "eslint .",
+    "ci": "npm run lint && npm run cov",
+    "autod": "autod"
+  },
+  "ci": {
+    "version": "10"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "MYS",
+  "license": "MIT"
+}

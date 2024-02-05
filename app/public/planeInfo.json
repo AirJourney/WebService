@@ -1,0 +1,2378 @@
+[
+  {
+    "planeCode": 100,
+    "planeName": "Fokker 100",
+    "planeShortName": "F100",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 141,
+    "planeName": "BAe 146-100 Pax",
+    "planeShortName": "B461",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 142,
+    "planeName": "BAe 146-200 Pax",
+    "planeShortName": "B462",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 143,
+    "planeName": "BAe 146-300 Pax",
+    "planeShortName": "B463",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 146,
+    "planeName": "BAe 146 all pax models",
+    "planeShortName": null,
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "14F",
+    "planeName": "BAe 146 Freighter (-100/200/300QT & QC)",
+    "planeShortName": null,
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "14X",
+    "planeName": "BAe 146 Freighter (-100QT & QC)",
+    "planeShortName": "B461",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "14Y",
+    "planeName": "BAe 146 Freighter (-200QT & QC)",
+    "planeShortName": "B462",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "14Z",
+    "planeName": "BAe 146 Freighter (-200QT & QC)",
+    "planeShortName": "B463",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 290,
+    "planeName": "Embraer E190-E2",
+    "planeShortName": "E290",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 295,
+    "planeName": "Embraer E195-E2",
+    "planeShortName": "E295",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 221,
+    "planeName": "Airbus A220-100",
+    "planeShortName": "BCS1",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 223,
+    "planeName": "Airbus A220-200",
+    "planeShortName": "BCS3",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 310,
+    "planeName": "Airbus A310 all pax models",
+    "planeShortName": "A310",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 312,
+    "planeName": "Airbus A310-200 pax",
+    "planeShortName": "A310",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 313,
+    "planeName": "Airbus A310-300 pax",
+    "planeShortName": "A310",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 318,
+    "planeName": "Airbus A318",
+    "planeShortName": "A318",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 319,
+    "planeName": "Airbus A319 Ceo",
+    "planeShortName": "A319",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "31F",
+    "planeName": "Airbus A310 Freighter",
+    "planeShortName": "A310",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "31N",
+    "planeName": "Airbus A319 Neo",
+    "planeShortName": "A19N",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "31X",
+    "planeName": "Airbus A310-200 Freighter",
+    "planeShortName": "A310",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "31Y",
+    "planeName": "Airbus A310-300 Freighter",
+    "planeShortName": "A310",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 320,
+    "planeName": "Airbus A320-100/200 Ceo",
+    "planeShortName": "A320",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 321,
+    "planeName": "Airbus A321-100/200 Ceo",
+    "planeShortName": "A321",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "32A",
+    "planeName": "Airbus A320-200 Ceo (Sharklets)",
+    "planeShortName": "A320",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "32C",
+    "planeName": "Airbus A318 (Sharkelts)",
+    "planeShortName": "A318",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "32D",
+    "planeName": "Airbus A319 Ceo (Sharklets)",
+    "planeShortName": "A319",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "32N",
+    "planeName": "Airbus A320-200 Neo",
+    "planeShortName": "A20N",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "32Q",
+    "planeName": "Airbus A321-200 Neo",
+    "planeShortName": "A21N",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "32S",
+    "planeName": "Airbus A318/319/320/321",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 330,
+    "planeName": "Airbus A330 all models",
+    "planeShortName": "A330",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 332,
+    "planeName": "Airbus A330-200",
+    "planeShortName": "A332",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 333,
+    "planeName": "Airbus A330-300",
+    "planeShortName": "A333",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": null,
+    "planeName": "Airbus A330-700 Beluga XL",
+    "planeShortName": "A337",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 338,
+    "planeName": "Airbus A330-800 Neo",
+    "planeShortName": "A338",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 339,
+    "planeName": "Airbus A330-900 Neo",
+    "planeShortName": "A339",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "33X",
+    "planeName": "Airbus A330-200 Freighter",
+    "planeShortName": "A332",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 340,
+    "planeName": "Airbus A340 all models",
+    "planeShortName": "A340",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 342,
+    "planeName": "Airbus A340-200",
+    "planeShortName": "A342",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 343,
+    "planeName": "Airbus A340-300",
+    "planeShortName": "A343",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 345,
+    "planeName": "Airbus A340-500",
+    "planeShortName": "A345",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 346,
+    "planeName": "Airbus A340-600",
+    "planeShortName": "A346",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 351,
+    "planeName": "Airbus A350-1000",
+    "planeShortName": "A35K",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 359,
+    "planeName": "Airbus A350-900",
+    "planeShortName": "A359",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 380,
+    "planeName": "Airbus A380 pax",
+    "planeShortName": "A388",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "38F",
+    "planeName": "Airbus A380 Freighter",
+    "planeShortName": null,
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 703,
+    "planeName": "Boeing 707-300 pax",
+    "planeShortName": "B703",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 707,
+    "planeName": "Boeing 707/720 all pax models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "70F",
+    "planeName": "Boeing 707 Freighter",
+    "planeShortName": "B703",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "70M",
+    "planeName": "Boeing 707 Combi",
+    "planeShortName": "B703",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 717,
+    "planeName": "Boeing 717",
+    "planeShortName": "B712",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 721,
+    "planeName": "Boeing 727-100 pax",
+    "planeShortName": "B721",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 722,
+    "planeName": "Boeing 727-200 pax",
+    "planeShortName": "B722",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 727,
+    "planeName": "Boeing 727 all pax models",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "72B",
+    "planeName": "Boeing 727-100 Mixed Configuration",
+    "planeShortName": "B721",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "72C",
+    "planeName": "Boeing 727-200 Mixed Configuration",
+    "planeShortName": "B722",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "72F",
+    "planeName": "Boeing 727 Freighter (-100/200)",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "72M",
+    "planeName": "Boeing 727 Combi",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "72S",
+    "planeName": "Boeing 727-200 Advanced pax",
+    "planeShortName": "B722",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "72W",
+    "planeName": "Boeing 727-200 (winglets) pax",
+    "planeShortName": "B721",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "72X",
+    "planeName": "Boeing 727-100 Freighter",
+    "planeShortName": "B721",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "72Y",
+    "planeName": "Boeing 727-200 Freighter",
+    "planeShortName": "B722",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 731,
+    "planeName": "Boeing 737-100 pax",
+    "planeShortName": "B731",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 732,
+    "planeName": "Boeing 737-200 pax",
+    "planeShortName": "B732",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 733,
+    "planeName": "Boeing 737-300 pax",
+    "planeShortName": "B733",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 734,
+    "planeName": "Boeing 737-400 pax",
+    "planeShortName": "B734",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 735,
+    "planeName": "Boeing 737-500 pax",
+    "planeShortName": "B735",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 736,
+    "planeName": "Boeing 737-600 pax",
+    "planeShortName": "B736",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 737,
+    "planeName": "Boeing 737 all pax models",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 738,
+    "planeName": "Boeing 737-800 pax",
+    "planeShortName": "B738",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 739,
+    "planeName": "Boeing 737-900 pax",
+    "planeShortName": "B739",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73C",
+    "planeName": "Boeing 737-300 (winglets) pax",
+    "planeShortName": "B733",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73E",
+    "planeName": "Boeing 737-500 (winglets)pax",
+    "planeShortName": "B735",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73F",
+    "planeName": "Boeing 737 all Freighter models",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73G",
+    "planeName": "Boeing 737-700 pax",
+    "planeShortName": "B737",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73H",
+    "planeName": "Boeing 737-800 (winglets) pax",
+    "planeShortName": "B738",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73J",
+    "planeName": "Boeing 737-900 (winglets) pax",
+    "planeShortName": "B739",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73L",
+    "planeName": "Boeing 737-200 Combi",
+    "planeShortName": "B732",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73M",
+    "planeName": "Boeing 737 Combi",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73P",
+    "planeName": "Boeing 737-400 Freighter",
+    "planeShortName": "B734",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73Q",
+    "planeName": "Boeing 737-400 Combi",
+    "planeShortName": "B734",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73R",
+    "planeName": "Boeing 737-700 Combi",
+    "planeShortName": "B737",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73W",
+    "planeName": "Boeing 737-700 (winglets) pax",
+    "planeShortName": "B737",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73X",
+    "planeName": "Boeing 737-200 Freighter",
+    "planeShortName": "B732",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "73Y",
+    "planeName": "Boeing 737-300 Freighter",
+    "planeShortName": "B733",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": 741,
+    "planeName": "Boeing 747-100 pax",
+    "planeShortName": "B741",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 742,
+    "planeName": "Boeing 747-200 pax",
+    "planeShortName": "B742",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 743,
+    "planeName": "Boeing 747-300 pax",
+    "planeShortName": "B743",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 744,
+    "planeName": "Boeing 747-400 pax",
+    "planeShortName": "B744",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 747,
+    "planeName": "Boeing 747 all pax models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 748,
+    "planeName": "Boeing 747-8 pax",
+    "planeShortName": "B748",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74B",
+    "planeName": "Boeing 747-400 Swingtail Freighter",
+    "planeShortName": "B744",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74C",
+    "planeName": "Boeing 747-200 Combi",
+    "planeShortName": "B742",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74D",
+    "planeName": "Boeing 747-300 Combi",
+    "planeShortName": "B743",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74E",
+    "planeName": "Boeing 747-400 Combi",
+    "planeShortName": "B744",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74F",
+    "planeName": "Boeing 747 all Freighter models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74H",
+    "planeName": "Boeing 747-8I Passenger",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74J",
+    "planeName": "Boeing 747-400 (Domestic) pax",
+    "planeShortName": "B744",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74L",
+    "planeName": "Boeing 747SP",
+    "planeShortName": "N74S",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74M",
+    "planeName": "Boeing 747 all Combi models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74N",
+    "planeName": "Boeing 747-8F",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74R",
+    "planeName": "Boeing 747SR pax",
+    "planeShortName": "B74R",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74T",
+    "planeName": "Boeing 747-100 Freighter",
+    "planeShortName": "B741",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74U",
+    "planeName": "Boeing 747-300 / 747-200 SUD Freighter",
+    "planeShortName": "B743",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74V",
+    "planeName": "Boeing 747SR Freighter",
+    "planeShortName": "B74R",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74X",
+    "planeName": "Boeing 747-200 Freighter",
+    "planeShortName": "B742",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "74Y",
+    "planeName": "Boeing 747-400 Freighter",
+    "planeShortName": "B744",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 752,
+    "planeName": "Boeing 757-200 pax",
+    "planeShortName": "B752",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 753,
+    "planeName": "Boeing 757-300 pax",
+    "planeShortName": "B753",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 757,
+    "planeName": "Boeing 757 all pax models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "75F",
+    "planeName": "Boeing 757 Freighter",
+    "planeShortName": "B752",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "75M",
+    "planeName": "Boeing 757 Mixed Configuration",
+    "planeShortName": "B752",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "75W",
+    "planeName": "Boeing 757-200 (winglets) pax",
+    "planeShortName": "B752",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 762,
+    "planeName": "Boeing 767-200 pax",
+    "planeShortName": "B762",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 763,
+    "planeName": "Boeing 767-300 pax",
+    "planeShortName": "B763",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 764,
+    "planeName": "Boeing 767-400 pax",
+    "planeShortName": "B764",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 767,
+    "planeName": "Boeing 767 all pax models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "76F",
+    "planeName": "Boeing 767 all Freighter models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "76W",
+    "planeName": "Boeing 767-300 (winglets) pax",
+    "planeShortName": "B763",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "76X",
+    "planeName": "Boeing 767-200 Freighter",
+    "planeShortName": "B762",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "76Y",
+    "planeName": "Boeing 767-300 Freighter",
+    "planeShortName": "B763",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 772,
+    "planeName": "Boeing 777-200 pax",
+    "planeShortName": "B772",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 773,
+    "planeName": "Boeing 777-300 pax",
+    "planeShortName": "B773",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 777,
+    "planeName": "Boeing 777 all pax models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "77F",
+    "planeName": "Boeing 777 Freighter",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "77L",
+    "planeName": "Boeing 777-200LR pax",
+    "planeShortName": "B772",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "77W",
+    "planeName": "Boeing 777-300ER pax",
+    "planeShortName": "B77W",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "77X",
+    "planeName": "Boeing 777-200 Freighter",
+    "planeShortName": "B77L",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 781,
+    "planeName": "Boeing 787-10 pax",
+    "planeShortName": "B78X",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 788,
+    "planeName": "Boeing 787-8 pax",
+    "planeShortName": "B788",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": 789,
+    "planeName": "Boeing 787-9 pax",
+    "planeShortName": "B789",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "7M7",
+    "planeName": "Boeing 737 MAX 7 pax",
+    "planeShortName": "B37M",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "7M8",
+    "planeName": "Boeing 737 MAX 8 pax",
+    "planeShortName": "B38M",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "7M9",
+    "planeName": "Boeing 737 MAX 9 pax",
+    "planeShortName": "B39M",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "7MJ",
+    "planeName": "Boeing 737 MAX 10 pax",
+    "planeShortName": "B3XM",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "A22",
+    "planeName": "Antonov AN-22",
+    "planeShortName": "AN22",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "A26",
+    "planeName": "Antonov AN-26",
+    "planeShortName": "AN26",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "A28",
+    "planeName": "Antonov AN-28 / PZL Miele M-28 Skytruck",
+    "planeShortName": "AN28",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "A30",
+    "planeName": "Antonov AN-30",
+    "planeShortName": "AN30",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "A32",
+    "planeName": "Antonov AN-32",
+    "planeShortName": "AN32",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "A38",
+    "planeName": "Antonov AN-38",
+    "planeShortName": "AN38",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "A40",
+    "planeName": "Antonov AN-140",
+    "planeShortName": "A140",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "A4F",
+    "planeName": "Antonov AN-124 Ruslan",
+    "planeShortName": "A124",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "A5F",
+    "planeName": "Antonov AN-225",
+    "planeShortName": "A225",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "A81",
+    "planeName": "Antonov AN-148-100",
+    "planeShortName": "A148",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AB3",
+    "planeName": "Airbus Industrie A300 pax",
+    "planeShortName": "A30B",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "AB4",
+    "planeName": "Airbus Industrie A300B2/B4/C4 pax",
+    "planeShortName": "A30B",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "AB6",
+    "planeName": "Airbus Industrie A300-600 pax",
+    "planeShortName": "A306",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "ABB",
+    "planeName": "Airbus Industrie A300-600ST Beluga Freighter",
+    "planeShortName": "A3ST",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "ABF",
+    "planeName": "Airbus Industrie A300 Freighter",
+    "planeShortName": "A30B",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "ABX",
+    "planeName": "Airbus Industrie A300C4/F4 Freighter",
+    "planeShortName": "A30B",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "ABY",
+    "planeName": "Airbus Industrie A600-600 Freighter",
+    "planeShortName": "A306",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "ACD",
+    "planeName": "Gulfstream/Rockwell (Aero) Commander/Turbo Commander",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "ACP",
+    "planeName": "Gulfstream/Rockwell (Aero) Commander",
+    "planeShortName": "AC68",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "ACT",
+    "planeName": "Gulfstream/Rockwell (Aero) Turbo Commander",
+    "planeShortName": "AC90",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "AGH",
+    "planeName": "Agusta A109",
+    "planeShortName": "A109",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "ALM",
+    "planeName": "Ayres LM-200 Loadmaster",
+    "planeShortName": "LOAD",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AN4",
+    "planeName": "Antonov AN-24",
+    "planeShortName": "AN24",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AN6",
+    "planeName": "Antonov AN-26 / AN-30 /AN-32",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AN7",
+    "planeName": "Antonov AN-72 / AN-74",
+    "planeShortName": "AN72",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ANF",
+    "planeName": "Antonov AN-12",
+    "planeShortName": "AN12",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "APH",
+    "planeName": "Eurocopter (Aerospatiale) SA330 Puma / AS332 Super Puma",
+    "planeShortName": "n/a",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "AR1",
+    "planeName": "Avro RJ100 Avroliner",
+    "planeShortName": "RJ1H",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AR7",
+    "planeName": "Avro RJ70 Avroliner",
+    "planeShortName": "RJ70",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AR8",
+    "planeName": "Avro RJ85 Avroliner",
+    "planeShortName": "RJ85",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ARJ",
+    "planeName": "Avro RJ70 / RJ85 / RJ100 Avroliner",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ARX",
+    "planeName": "Avro RJX85 / RJX100",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AT4",
+    "planeName": "Aerospatiale/Alenia ATR 42-300 / 320",
+    "planeShortName": "AT43",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AT5",
+    "planeName": "Aerospatiale/Alenia ATR 42-500",
+    "planeShortName": "AT45",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AT7",
+    "planeName": "Aerospatiale/Alenia ATR 72",
+    "planeShortName": "AT72",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ATD",
+    "planeName": "Aerospatiale/Alenia ATR 42-400",
+    "planeShortName": "AT44",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ATF",
+    "planeName": "Aerospatiale/Alenia ATR 72 Freighter",
+    "planeShortName": "AT72",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ATP",
+    "planeName": "British Aerospace ATP",
+    "planeShortName": "ATP",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ATR",
+    "planeName": "Aerospatiale/Alenia ATR 42/ ATR 72",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AX1",
+    "planeName": "Avro RJX100",
+    "planeShortName": "RX1H",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "AX8",
+    "planeName": "Avro RJX85",
+    "planeShortName": "RX85",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "B11",
+    "planeName": "British Aerospace (BAC) One Eleven / RomBAC One Eleven",
+    "planeShortName": "BA11",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "B12",
+    "planeName": "British Aerospace (BAC) One Eleven 200",
+    "planeShortName": "BA11",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "B13",
+    "planeName": "British Aerospace (BAC) One Eleven 300",
+    "planeShortName": "BA11",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "B14",
+    "planeName": "British Aerospace (BAC) One Eleven 400/475",
+    "planeShortName": "BA11",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "B15",
+    "planeName": "British Aerospace (BAC) One Eleven 500 / RomBAC One Eleven",
+    "planeShortName": "BA11",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "B72",
+    "planeName": "Boeing 720B pax",
+    "planeShortName": "B720",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "BE1",
+    "planeName": "Beechcraft 1900/1900C/1900D",
+    "planeShortName": "B190",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "BE2",
+    "planeName": "Beechcraft twin piston engines",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "BEC",
+    "planeName": "Beechcraft light aircraft",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "BEH",
+    "planeName": "Beechcraft 1900D",
+    "planeShortName": "B190",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "BEP",
+    "planeName": "Beechcraft light aircraft - single engine",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "BES",
+    "planeName": "Beechcfrat 1900/1900C",
+    "planeShortName": "B190",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "BET",
+    "planeName": "Beechcraft light aircraft - twin turboprop engine",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "BH2",
+    "planeName": "Bell Helicopters",
+    "planeShortName": "n/a",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "BNI",
+    "planeName": "Pilatus Britten-Norman BN-2A/B Islander",
+    "planeShortName": "BN2P",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "BNT",
+    "planeName": "Pilatus Britten-Norman BN-2A Mk III Trislander",
+    "planeShortName": "TRIS",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "BUS",
+    "planeName": "Bus",
+    "planeShortName": "n/a",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "C27",
+    "planeName": "COMAC ARJ21",
+    "planeShortName": "AJ27",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": null,
+    "planeName": "COMAC C919",
+    "planeShortName": "C919",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CCJ",
+    "planeName": "Canadair Challenger",
+    "planeShortName": "CL60",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CCX",
+    "planeName": "Canadair Global Express",
+    "planeShortName": "GLEX",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CD2",
+    "planeName": "Government Aircraft Factories N22B / N24A Nomad",
+    "planeShortName": "NOMA",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "CL4",
+    "planeName": "Canadair CL-44",
+    "planeShortName": "CL44",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CN1",
+    "planeName": "Cessna light aircraft - single piston engine",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "CN2",
+    "planeName": "Cessna light aircraft - twin piston engines",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "CN7",
+    "planeName": "Cessna 750 Citation X",
+    "planeShortName": "C750",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CNA",
+    "planeName": "Cessna light aircraft",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "CNC",
+    "planeName": "Cessna light aircraft - single turboprop engine",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "CNJ",
+    "planeName": "Cessna Citation",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "CNT",
+    "planeName": "Cessna light aircraft - twin turboprop engines",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "CR1",
+    "planeName": "Canadair Regional Jet 100",
+    "planeShortName": "CRJ1",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CR2",
+    "planeName": "Canadair Regional Jet 200",
+    "planeShortName": "CRJ2",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CR7",
+    "planeName": "Canadair Regional Jet 700",
+    "planeShortName": "CRJ7",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CR9",
+    "planeName": "Canadair Regional Jet 900",
+    "planeShortName": "CRJ9",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CRA",
+    "planeName": "Canadair Regional Jet 705",
+    "planeShortName": "CRJ9",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CRF",
+    "planeName": "Canadair Regional Jet Freighter",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CRJ",
+    "planeName": "Canadair Regional Jet",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CRK",
+    "planeName": "Canadair Regional Jet 1000",
+    "planeShortName": "CRJX",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CRV",
+    "planeName": "Aerospatiale (Sud Aviation) Se.210 Caravelle",
+    "planeShortName": "S210",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CS2",
+    "planeName": "CASA / IPTN 212 Aviocar",
+    "planeShortName": "C212",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CS5",
+    "planeName": "CASA / IPTN CN-235",
+    "planeShortName": "CN35",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CV2",
+    "planeName": "Convair CV-240 pax",
+    "planeShortName": "CVLP",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CV4",
+    "planeName": "Convair CV-440 Metropolitan pax",
+    "planeShortName": "CVLP",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CV5",
+    "planeName": "Convair CV-580 pax",
+    "planeShortName": "CVLT",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CVF",
+    "planeName": "Convair CV-240 / 440 / 580 / 600 / 640 Freighter",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CVR",
+    "planeName": "Convair CV-240 / 440 / 580 / 600 / 640 pax",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CVV",
+    "planeName": "Convair CV-240 Freighter",
+    "planeShortName": "CVLP",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CVX",
+    "planeName": "Convair CV-440 Freighter",
+    "planeShortName": "CVLP",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CVY",
+    "planeName": "Convair CV-580 / 600 / 640 Freighter",
+    "planeShortName": "CVLT",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "CWC",
+    "planeName": "Curtiss C-46 Commando",
+    "planeShortName": "C46",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D10",
+    "planeName": "Douglas DC-10 pax",
+    "planeShortName": "DC10",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D11",
+    "planeName": "Douglas DC-10-10/15 pax",
+    "planeShortName": "DC10",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D1C",
+    "planeName": "Douglas DC-10-30/40 pax",
+    "planeShortName": "DC10",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D1F",
+    "planeName": "Douglas DC-10 all Freighters",
+    "planeShortName": "DC10",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D1M",
+    "planeName": "Douglas DC-10 all Combi models",
+    "planeShortName": "DC10",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D1X",
+    "planeName": "Douglas DC-10-10 Freighter",
+    "planeShortName": "DC10",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D1Y",
+    "planeName": "Douglas DC-10-30 / 40 Freighters",
+    "planeShortName": "DC10",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D28",
+    "planeName": "Fairchild Dornier Do.228",
+    "planeShortName": "D228",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "D38",
+    "planeName": "Fairchild Dornier Do.328",
+    "planeShortName": "D328",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D3F",
+    "planeName": "Douglas DC-3 Freighter",
+    "planeShortName": "DC3",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D6F",
+    "planeName": "Douglas DC-6A/B/C Freighter",
+    "planeShortName": "DC6",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D8F",
+    "planeName": "Douglas DC-8 all Freighters",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D8L",
+    "planeName": "Douglas DC-8-62 pax",
+    "planeShortName": "DC86",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D8M",
+    "planeName": "Douglas DC-8 all Combi models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D8Q",
+    "planeName": "Douglas DC-8-72 pax",
+    "planeShortName": "DC87",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D8T",
+    "planeName": "Douglas DC-8-50 Freighter",
+    "planeShortName": "DC85",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D8X",
+    "planeName": "Douglas DC-8-61 / 62 / 63 Freighters",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D8Y",
+    "planeName": "Douglas DC-8-71 / 72 / 73 Freighters",
+    "planeShortName": "DC87",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "D91",
+    "planeName": "Douglas DC-9-10 pax",
+    "planeShortName": "DC91",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D92",
+    "planeName": "Douglas DC-9-20 pax",
+    "planeShortName": "DC92",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D93",
+    "planeName": "Douglas DC-9-30 pax",
+    "planeShortName": "DC93",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D94",
+    "planeName": "Douglas DC-9-40 pax",
+    "planeShortName": "DC94",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D95",
+    "planeName": "Douglas DC-9-50 pax",
+    "planeShortName": "DC95",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D9C",
+    "planeName": "Douglas DC-9-30 Freighter",
+    "planeShortName": "DC93",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D9D",
+    "planeName": "Douglas DC-9-40 Freighter",
+    "planeShortName": "DC94",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D9F",
+    "planeName": "Douglas DC-9 all Freighters",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "D9X",
+    "planeName": "Douglas DC-9-10 Freighter",
+    "planeShortName": "DC91",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DC3",
+    "planeName": "Douglas DC-3 pax",
+    "planeShortName": "DC3",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DC4",
+    "planeName": "Douglas DC-4 pax",
+    "planeShortName": "DC4",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DC6",
+    "planeName": "Douglas DC6A/B pax",
+    "planeShortName": "DC6",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DC8",
+    "planeName": "Douglas DC-8 all pax models",
+    "planeShortName": "n/a",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "DC9",
+    "planeName": "Douglas DC-9 all pax models",
+    "planeShortName": "DC9",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DF2",
+    "planeName": "Dassault (Breguet Mystere) Falcon 10 / 100 / 20 / 200 / 2000",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DF3",
+    "planeName": "Dassault (Breguet Mystere) Falcon 50 / 900",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DFL",
+    "planeName": "Dassault (Breguet Mystere) Falcon",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DH1",
+    "planeName": "De Havilland Canada DHC-8-100 Dash 8 / 8Q",
+    "planeShortName": "DH8A",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DH2",
+    "planeName": "De Havilland Canada DHC-8-200 Dash 8 / 8Q",
+    "planeShortName": "DH8B",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DH3",
+    "planeName": "De Havilland Canada DHC-8-300 Dash 8 / 8Q",
+    "planeShortName": "DH8C",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DH4",
+    "planeName": "De Havilland Canada DHC-8-400 Dash 8Q",
+    "planeShortName": "DH8D",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DH7",
+    "planeName": "De Havilland Canada DHC-7 Dash 7",
+    "planeShortName": "DHC7",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DH8",
+    "planeName": "De Havilland Canada DHC-8 Dash 8 all models",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DHB",
+    "planeName": "De Havilland Canada DHC-2 Beaver / Turbo Beaver",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "DHC",
+    "planeName": "De Havilland Canada DHC-4 Caribou",
+    "planeShortName": "DHC4",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "DHD",
+    "planeName": "De Havilland DH.104 Dove",
+    "planeShortName": "DOVE",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "DHH",
+    "planeName": "De Havilland DH.114 Heron",
+    "planeShortName": "HERN",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "DHL",
+    "planeName": "De Havilland Canada DHC-3 Turbo Otter",
+    "planeShortName": "DHC3",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "DHO",
+    "planeName": "De Havilland Canada DHC-3 Otter / Turbo Otter",
+    "planeShortName": "DHC3",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "DHP",
+    "planeName": "De Havilland Canada DHC-2 Beaver",
+    "planeShortName": "DHC2",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "DHR",
+    "planeName": "De Havilland Canada DHC-2 Turbo-Beaver",
+    "planeShortName": "DH2T",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "DHS",
+    "planeName": "De Havilland Canada DHC-3 Otter",
+    "planeShortName": "DHC3",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "DHT",
+    "planeName": "De Havilland Canada DHC-6 Twin Otter",
+    "planeShortName": "DHC6",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "E70",
+    "planeName": "Embraer 170",
+    "planeShortName": "E170",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "E90",
+    "planeName": "Embraer 190",
+    "planeShortName": "E190",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "EC3",
+    "planeName": "Eurocopter EC.130",
+    "planeShortName": "EC30",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "E70",
+    "planeName": "Embraer 170",
+    "planeShortName": "E170",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "E75",
+    "planeName": "Embraer 175 (Short wing)",
+    "planeShortName": "E75L",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "E75",
+    "planeName": "Embraer 175 (Long Wing)",
+    "planeShortName": "E75S",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "E90",
+    "planeName": "Embraer 190",
+    "planeShortName": "E190",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "E95",
+    "planeName": "Embraer 195",
+    "planeShortName": "E195",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "EM2",
+    "planeName": "Embraer EMB.120 Brasilia",
+    "planeShortName": "E120",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "EMB",
+    "planeName": "Embraer EMB.110 Bandeirnate",
+    "planeShortName": "E110",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "EMJ",
+    "planeName": "Embraer 170/190",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ER3",
+    "planeName": "Embraer RJ135",
+    "planeShortName": "E135",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ER3",
+    "planeName": "Embraer Legacy 600 / Legacy 650",
+    "planeShortName": "E35L",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ER4",
+    "planeName": "Embraer RJ145 Amazon",
+    "planeShortName": "E145",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ERD",
+    "planeName": "Embraer RJ140",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "ERJ",
+    "planeName": "Embraer RJ135 / RJ140 / RJ145",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "F21",
+    "planeName": "Fokker F.28 Fellowship 1000",
+    "planeShortName": "F28",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "F22",
+    "planeName": "Fokker F.28 Fellowship 2000",
+    "planeShortName": "F28",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "F23",
+    "planeName": "Fokker F.28 Fellowship 3000",
+    "planeShortName": "F28",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "F24",
+    "planeName": "Fokker F.28 Fellowship 4000",
+    "planeShortName": "F28",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "F27",
+    "planeName": "Fokker F.27 Friendship / Fairchild F.27",
+    "planeShortName": "F27",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "F28",
+    "planeName": "Fokker F.28 Fellowship",
+    "planeShortName": "F28",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "F50",
+    "planeName": "Fokker 50",
+    "planeShortName": "F50",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "F5F",
+    "planeName": "Fokker 50 Freighter",
+    "planeShortName": "F50",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "F70",
+    "planeName": "Fokker 70",
+    "planeShortName": "F70",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "FA7",
+    "planeName": "Fairchild Dornier 728JET",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "FK7",
+    "planeName": "Fairchild FH.227",
+    "planeShortName": "F27",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "FRJ",
+    "planeName": "Fairchild Dornier 328JET",
+    "planeShortName": "J328",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "GRG",
+    "planeName": "Grumman G.21 Goose",
+    "planeShortName": "G21",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "GRJ",
+    "planeName": "Gulfstream Aerospace G-1159 Gulfstream II / III / IV / V",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "GRM",
+    "planeName": "Grumman G.73 Turbo Mallard",
+    "planeShortName": "G73T",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "GRS",
+    "planeName": "Gulfstream Aerospace G-159 Gulfstream I",
+    "planeShortName": "G159",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "H25",
+    "planeName": "British Aerospace (Hawker Siddeley) HS.125",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "HEC",
+    "planeName": "Helio H-250 Courier / H-295 / 385 Super Courier",
+    "planeShortName": "COUC",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "HOV",
+    "planeName": "Hovercraft",
+    "planeShortName": "n/a",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "HS7",
+    "planeName": "Hawker Siddeley HS.748",
+    "planeShortName": "A748",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "I14",
+    "planeName": "Ilyushin IL114",
+    "planeShortName": "I114",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "I93",
+    "planeName": "Ilyushin IL96-300 pax",
+    "planeShortName": "IL96",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "I9F",
+    "planeName": "Ilyushin IL96 Freighters",
+    "planeShortName": "IL96",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "I9M",
+    "planeName": "Ilyushin IL96M pax",
+    "planeShortName": "IL96",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "I9X",
+    "planeName": "Ilyushin IL96-300 Freighter",
+    "planeShortName": "IL96",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "I9Y",
+    "planeName": "Ilyushin IL96T Freighter",
+    "planeShortName": "IL96",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "IL6",
+    "planeName": "Ilyushin IL62",
+    "planeShortName": "IL62",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "IL7",
+    "planeName": "Ilyushin IL76",
+    "planeShortName": "IL76",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "IL8",
+    "planeName": "Ilyushin IL18",
+    "planeShortName": "IL18",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "IL9",
+    "planeName": "Ilyushin IL96 pax",
+    "planeShortName": "IL96",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "ILW",
+    "planeName": "Ilyushin IL86",
+    "planeShortName": "IL86",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "J31",
+    "planeName": "British Aerospace Jetstream 31",
+    "planeShortName": "JS31",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "J32",
+    "planeName": "British Aerospace Jetstream 32",
+    "planeShortName": "JS32",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "J41",
+    "planeName": "British Aerospace Jetstream 41",
+    "planeShortName": "JS41",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "JST",
+    "planeName": "British Aerospace Jetstream 31 / 32 / 41",
+    "planeShortName": "n/a",
+    "planeSize": "L/M"
+  },
+  {
+    "planeCode": "JU5",
+    "planeName": "Junkers Ju52/3M",
+    "planeShortName": "JU52",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "L10",
+    "planeName": "Lockheed L-1011 Tristar pax",
+    "planeShortName": "L101",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "L11",
+    "planeName": "Lockheed L-1011 1 / 50 / 100 / 150 / 200 / 250 Tristar pax",
+    "planeShortName": "L101",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "L15",
+    "planeName": "Lockheed L-1011 500 Tristar pax",
+    "planeShortName": "L101",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "L1F",
+    "planeName": "Lockheed L-1011 Tristar Freighter",
+    "planeShortName": "L101",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "L49",
+    "planeName": "Lockheed L-1049 Super Constellation",
+    "planeShortName": "CONI",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "L4T",
+    "planeName": "LET 410",
+    "planeShortName": "L410",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "LCH",
+    "planeName": "Launch - Boat",
+    "planeShortName": "n/a",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "LMO",
+    "planeName": "Limousine",
+    "planeShortName": "n/a",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "LOE",
+    "planeName": "Lockheed L-188 Electra pax",
+    "planeShortName": "L188",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "LOF",
+    "planeName": "Lockheed L-188 Electra Freighter",
+    "planeShortName": "L188",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "LOH",
+    "planeName": "Lockheed L-182 / 282 / 382 (L-100) Hercules",
+    "planeShortName": "C130",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "LOM",
+    "planeName": "Lockheed L-188 Electra Mixed Configuration",
+    "planeShortName": "L188",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "LRJ",
+    "planeName": "Gates Learjet",
+    "planeShortName": "n/a",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "M11",
+    "planeName": "McDonnell Douglas MD11 pax",
+    "planeShortName": "MD11",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "M1F",
+    "planeName": "McDonnell Douglas MD11 Freighter",
+    "planeShortName": "MD11",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "M1M",
+    "planeName": "McDonnell Douglas MD11 Mixed Configuration",
+    "planeShortName": "MD11",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "M80",
+    "planeName": "McDonnell Douglas MD80",
+    "planeShortName": "MD80",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "M81",
+    "planeName": "McDonnell Douglas MD81",
+    "planeShortName": "MD81",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "M82",
+    "planeName": "McDonnell Douglas MD82",
+    "planeShortName": "MD82",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "M83",
+    "planeName": "McDonnell Douglas MD83",
+    "planeShortName": "MD83",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "M87",
+    "planeName": "McDonnell Douglas MD87",
+    "planeShortName": "MD87",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "M88",
+    "planeName": "McDonnell Douglas MD88",
+    "planeShortName": "MD88",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "M90",
+    "planeName": "McDonnell Douglas MD90",
+    "planeShortName": "MD90",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "MBH",
+    "planeName": "Eurocopter (MBB) Bo.105",
+    "planeShortName": "B105",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "MD9",
+    "planeName": "MD Helicopters MD900 Explorer",
+    "planeShortName": "EXPL",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "MIH",
+    "planeName": "MIL Mi-8 / Mi-17 / Mi-171 / Mil-172",
+    "planeShortName": "MI8",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "MU2",
+    "planeName": "Mitsubishi Mu-2",
+    "planeShortName": "MU2",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "ND2",
+    "planeName": "Aerospatiale (Nord) 262",
+    "planeShortName": "N262",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "NDC",
+    "planeName": "Aerospatiale SN.601 Corvette",
+    "planeShortName": "S601",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "NDE",
+    "planeName": "Eurocopter (Aerospatiale) AS350 Ecureuil / AS355 Ecureuil 2",
+    "planeShortName": "n/a",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "NDH",
+    "planeName": "Eurocopter (Aerospatiale) SA365C / SA365N Dauphin 2",
+    "planeShortName": "S65C",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "PA1",
+    "planeName": "Piper light aircraft - single piston engine",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "PA2",
+    "planeName": "Piper light aircraft - twin piston engines",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "PAG",
+    "planeName": "Piper light aircraft",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "PAT",
+    "planeName": "Piper light aircraft - twin turboprop engines",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "PL2",
+    "planeName": "Pilatus PC-12",
+    "planeShortName": "PC12",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "PL6",
+    "planeName": "Pilatus PC-6 Turbo Porter",
+    "planeShortName": "PC6T",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "PN6",
+    "planeName": "Partenavia P.68",
+    "planeShortName": "P68",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "RFS",
+    "planeName": "Road Feeder Service - Cargo Truck",
+    "planeShortName": "n/a",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "S20",
+    "planeName": "Saab 2000",
+    "planeShortName": "SB20",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "S58",
+    "planeName": "Sikorsky S-58T",
+    "planeShortName": "S58T",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "S61",
+    "planeName": "Sikorsky S-61",
+    "planeShortName": "S61",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "S76",
+    "planeName": "Sikorsky S-76",
+    "planeShortName": "S76",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "SF3",
+    "planeName": "Saab SF340",
+    "planeShortName": "SF34",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "SFB",
+    "planeName": "Saab SF340B",
+    "planeShortName": "SF34",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "SFF",
+    "planeName": "Saab SF340 Freighter",
+    "planeShortName": "SF34",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "SH3",
+    "planeName": "Shorts SD.330",
+    "planeShortName": "SH33",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "SH6",
+    "planeName": "Shorts SD.360",
+    "planeShortName": "SH36",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "SHB",
+    "planeName": "Shorts SC-5 Belfast",
+    "planeShortName": "BELF",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "SHS",
+    "planeName": "Shorts SC-7 Skyvan",
+    "planeShortName": "SC7",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "SSC",
+    "planeName": "Aerospatiale/BAC Concorde",
+    "planeShortName": "CONC",
+    "planeSize": "H"
+  },
+  {
+    "planeCode": "SU1",
+    "planeName": "Sukhoi Superjet 100",
+    "planeShortName": null,
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "SU7",
+    "planeName": "Sukhoi Superjet 100-75",
+    "planeShortName": null,
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "SU9",
+    "planeName": "Sukhoi Superjet 100-95",
+    "planeShortName": "SU95",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "SWM",
+    "planeName": "Fairchild (Swearingen) SA26 / SA226 / SA227 Metro / Merlin / Expediter",
+    "planeShortName": "n/a",
+    "planeSize": "L"
+  },
+  {
+    "planeCode": "T20",
+    "planeName": "Tupolev Tu-204 / Tu-214",
+    "planeShortName": "T204",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "T2F",
+    "planeName": "Tupolev Tu-204 Freighter",
+    "planeShortName": "T204",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "TRN",
+    "planeName": "Train",
+    "planeShortName": "n/a",
+    "planeSize": "n/a"
+  },
+  {
+    "planeCode": "TU3",
+    "planeName": "Tupolev Tu134",
+    "planeShortName": "T134",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "TU5",
+    "planeName": "Tupolev Tu154",
+    "planeShortName": "T154",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "VCV",
+    "planeName": "Vickers Viscount",
+    "planeShortName": "VISC",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "WWP",
+    "planeName": "Israel Aircraft Industries 1124 Westwind",
+    "planeShortName": "WW24",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "YK2",
+    "planeName": "Yakovlev Yak 42",
+    "planeShortName": "YK42",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "YK4",
+    "planeName": "Yakovlev Yak 40",
+    "planeShortName": "YK40",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "YN2",
+    "planeName": "Harbin Yunshuji Y12",
+    "planeShortName": "Y12",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "YN7",
+    "planeName": "Xian Yunshuji Y7",
+    "planeShortName": "AN24",
+    "planeSize": "M"
+  },
+  {
+    "planeCode": "YS1",
+    "planeName": "NAMC YS-11",
+    "planeShortName": "YS11",
+    "planeSize": "M"
+  }
+]

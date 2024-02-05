@@ -1,0 +1,168 @@
+接口描述：获取航班信息。
+
+URL：https://www.skywinghub.com/website/shopping
+
+请求方式：POST
+
+请求参数：
+
+- `flightType` (string)：航班类型，取值为 "OW"（单程）、"RT"(往返)。
+- `cabinType` (string)：舱位类型，取值为 "E"（经济舱、超级经济舱）、 "B"（头等舱、商务舱）、。
+- `passenger` (array)：乘客信息数组，包含以下字段：
+  - `name` (string)：乘客类型，例如 "Adult"（成人）、"Children"（儿童）或 "Infants"（婴儿）。
+  - `count` (integer)：乘客数量。
+  - `flag` (string)：乘客类型标识，例如 "ADT"（成人）、"CHD"（儿童）或 "INF"（婴儿）。
+- `tripSearch` (array)：航程查询数组，包含以下字段：
+  - `depart` (string)：出发地，例如 "TYO"。
+  - `arrive` (string)：目的地，例如 "SHA"。
+  - `departTime` (string)：出发日期，格式为 "yyyy-MM-dd"，例如 "2023-05-31"。
+- `currency` (string)：货币类型，例如 "HKD"。
+- `locale` (string)：访问站点，例如"CN",
+- `language` (string)：网站语种，例如"tc"
+
+响应数据结构：
+- `sessionid` (string)：会话ID。
+- `status` (boolean)：请求状态，成功为 true，失败为 false。
+- `msg` (string)：返回的消息。
+- `content` (array)：包含查询结果的数组。
+  - `shoppingId` (string)：产品 ID。
+  - `redisCode` (string)：产品编码。
+  - `redisSchema` (string)：产品追溯码。
+  - `segmentSchema` (string)：航段追溯码。
+  - `currency` (string)：货币类型。
+  - `flightGroupInfoList` (array)：航班组信息列表。
+    - `flightId` (string)：航班 ID。
+    - `arriveMultCityName` (string)：到达城市名称。
+    - `arriveDateTimeFormat` (string)：到达时间，格式为 "yyyy-MM-ddThh:mm:ss"，例如""2023-05-28T15:55:00+08:00""。
+    - `departDateTimeFormat` (string)：出发时间，格式为 "yyyy-MM-ddThh:mm:ss"，例如""2023-05-28T15:55:00+08:00""。
+    - `departMultCityName` (string)：出发城市名称。
+    - `flightTripTitle` (string)：航班行程标题。
+    - `duration` (object)：时长。
+      - `h` (string)：小时。
+      - `m` (string)：分钟。
+    - `flightSegments` (array)：航班航段列表。
+      - `segmentId` (string)：航段 ID。
+      - `aDateTime` (string)：到达时间，格式为 "yyyy-MM-ddThh:mm:ss"，例如""2023-05-28T15:55:00+08:00""。
+      - `dDateTime` (string)：出发时间，格式为 "yyyy-MM-ddThh:mm:ss"，例如""2023-05-28T15:55:00+08:00""。
+      - `dCityInfo` (object)：出发城市信息。
+        - `code` (string)：城市代码。
+        - `name` (string)：城市名称。
+      - `aCityInfo` (object)：到达城市信息。
+        - `code` (string)：城市代码。
+        - `name` (string)：城市名称。
+      - `dPortInfo` (object)：出发机场信息。
+        - `code` (string)：机场代码。
+        - `name` (string)：机场名称。
+        - `terminal` (string)：航站楼。
+      - `aPortInfo` (object)：到达机场信息。
+        - `code` (string)：机场代码。
+        - `name` (string)：机场名称。
+        - `terminal` (string)：航站楼。
+      - `acrossDays` (integer)：跨越天数。
+      - `airlineInfo` (object)：航空公司信息。
+        - `code` (string)：航空公司代码。
+        - `name` (string)：航空公司名称。
+        - `isLCC` (boolean)：是否为廉价航空。
+      - `craftInfo` (object)：机型信息。
+        - `name` (string)：机型名称。
+        - `minSeats` (integer, nullable)：最少座位数。
+        - `maxSeats` (integer, nullable)：最多座位数。
+        - `widthLevel` (string)：宽度等级。
+        - `craftType` (string)：机型代码。
+      - `cabinClass` (string)：舱位等级。
+      - `subClass` (string)：子舱位等级。
+      - `durationInfo` (object)：时长信息。
+        - `hour` (string)：小时。
+        - `min` (string)：分钟。
+      - `stopInfoList` (array)：经停信息列表。
+        - `code` (string)：机场代码。
+        - `name` (string)：机场名称。
+        - `terminal` (string)：航站楼。
+      - `flightNo` (string)：航班号。
+      - `segmentNo` (integer)：航段号。
+  - `policyDetailInfo` (object)：政策详细信息。
+    - `priceId` (string)：价格 ID。
+    - `avgPrice` (string)：平均价格。
+    - `totalPrice` (string)：总价格。
+    - `ticketDeadlineType` (integer)：机票截止类型。 1:快速出票,2:出票慢
+    - `adultPrice` (object)：成人价格。
+      - `salePrice` (string)：销售价格。
+      - `tax` (string)：税费。
+    - `childPrice` (object)：儿童价格。
+      - `salePrice` (string)：销售价格。
+      - `tax` (string)：税费。
+    - `infantPrice` (object)：婴儿价格。
+      - `salePrice` (string)：销售价格。
+      - `tax` (string)：税费。
+    - `limitInfo` (object)：限制信息。
+      - `availableSeatCount` (integer)：可用座位数。
+      - `nationalityLimit` (array)：国籍限制列表。
+        - `nationalCode` (string)：国籍码。
+  - `plicyInfo` (object)：政策信息。
+    - `baggageInfoList` (array)：行李信息列表。
+      - `checkedNote` (string)：托运行李说明。
+      - `checkedFormatted` (object)：托运行李格式化信息。
+        - `adultDetail` (object)：成人详细信息。
+          - `description` (string)：描述。
+          - `weightAndPieceDesc` (string)：重量和件数描述。
+          - `weight` (integer)：重量。
+          - `piece` (integer)：件数。
+        - `childDetail` (object)：儿童详细信息。
+          - `description` (string)：描述。
+          - `weightAndPieceDesc` (string)：重量和件数描述。
+          - `weight` (integer)：重量。
+          - `piece` (integer)：件数。
+        - `infantDetail` (object)：婴儿详细信息。
+          - `description` (string)：描述。
+          - `weightAndPieceDesc` (string)：重量和件数描述。
+          - `weight` (integer)：重量。
+          - `piece` (integer)：件数。
+      - `handNote` (string)：手提行李说明。
+      - `handFormatted` (object)：手提行李格式化信息。
+        - `adultDetail` (object)：成人详细信息。
+          - `description` (string)：描述。
+          - `weightAndPieceDesc` (string)：重量和件数描述。
+          - `weight` (integer)：重量。
+          - `piece` (integer)：件数。
+        - `childDetail` (object)：儿童详细信息。
+          - `description` (string)：描述。
+          - `weightAndPieceDesc` (string)：重量和件数描述。
+          - `weight` (integer)：重量。
+          - `piece` (integer)：件数。
+        - `infantDetail` (object)：婴儿详细信息。
+          - `description` (string)：描述。
+          - `weightAndPieceDesc` (string)：重量和件数描述。
+          - `weight` (integer)：重量。
+          - `piece` (integer)：件数。
+    - `penaltyInfoList` (array)：退改信息列表。
+      - `cancelInfo` (object)：退票信息。
+        - `note` (string)：说明。
+        - `formatted` (object)：格式化信息。
+          - `adultList` (array)：成人列表。
+            - `specialText` (string)：特殊文本。
+            - `timeText` (string)：时间文本。
+          - `childList` (array)：儿童列表。
+            - `specialText` (string)：特殊文本。
+            - `timeText` (string)：时间文本。
+          - `infantList` (array)：婴儿列表。
+            - `specialText` (string)：特殊文本。
+            - `timeText` (string)：时间文本。
+        - `firstTimeChangeFreeNote` (string)：首次变更免费说明。
+      - `changeInfo` (object)：更改信息。
+        - `note` (string)：说明。
+        - `formatted` (object)：格式化信息。
+          - `adultList` (array)：成人列表。
+            - `specialText` (string)：特殊文本。    
+            - `timeText` (string)：时间文本
+          - `childList` (array)：儿童列表。
+                - `specialText` (string)：特殊文本。
+                - `timeText` (string)：时间文本。
+              - `infantList` (array)：婴儿列表。
+                - `specialText` (string)：特殊文本。
+                - `timeText` (string)：时间文本。
+        - `firstTimeChangeFreeNote` (null)：首次变更免费说明。
+      - `endorsementNote` (string)：签转说明。
+      - `specialNote` (string)：特殊说明。
+      - `noShowCondition` (string)：no show条件。
+      - `partialUseChangeInfo` (string)：部分使用更改信息。
+  - `deeplink` (string)：跳转链接。

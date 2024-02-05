@@ -1,0 +1,87 @@
+{
+  
+  "flightGroupInfoList": [
+    {
+      "arriveMultCityName": "Singapore",
+      "departDateTimeFormat": "December 31, 2021",
+      "departMultCityName": "Tokyo",
+      "flightTripTitle": "Departure flight",
+      "duration": "7h 50m",
+      "dDateFormat": "Fri, Dec 31",
+      "flightSegments": [
+        {
+          "segmentNo": 1,
+          "aDateTime": "16:30",
+          "dCityInfo": {
+            "code": "TYO",
+            "name": "Tokyo",
+            "__typename": "CitySimpleInfoPayload"
+          },
+          "aCityInfo": {
+            "code": "SIN",
+            "name": "Singapore",
+            "__typename": "CitySimpleInfoPayload"
+          },
+          "dMainCityInfo": null,
+          "aMainCityInfo": null,
+          "dMainCityDistance": null,
+          "aMainCityDistance": null,
+          "dPortInfo": {
+            "code": "NRT",
+            "name": "Narita International Airport",
+            "terminal": "T1",
+            "__typename": "AirportSimpleInfoPayload"
+          },
+          "aPortInfo": {
+            "code": "SIN",
+            "name": "Singapore Changi Airport",
+            "terminal": null,
+            "__typename": "AirportSimpleInfoPayload"
+          },
+          "arrivalDays": 0,
+          "airlineInfo": {
+            "code": "SQ",
+            "name": "Singapore Airlines",
+            "isLCC": false,
+            "alliance": "SA",
+            "__typename": "AirlineInfoPayload",
+            "lowPrice": null
+          },
+          "craftInfo": {
+            "name": "Boeing 787",
+            "minSeats": null,
+            "maxSeats": 290,
+            "widthLevel": "Twin-aisle",
+            "craftType": "787",
+            "__typename": "CraftInfoPayload"
+          },
+          "cabinClass": "Economy",
+          "crossingSignInfo": null,
+          "dDateTime": "09:40",
+          "shareAirline": null,
+          "shareFlightNo": "",
+          "durationInfo": {
+            "hour": 7,
+            "min": 50,
+            "__typename": "DurationInfoPayload"
+          },
+          "transferDurationInfo": null,
+          "stopInfoList": [],
+          "luggageDirectInfo": null,
+          "flightNo": "SQ637",
+          "flightFlag": 16,
+          "sequenceNo": 1,
+          "atbFlight": false,
+          "subClass": "W",
+          "beMainSegment": true,
+          "beInternationalSegment": true,
+          "hasIst": false,
+          "transportType": 0,
+          "virtualFlightInfo": null,
+          "flagInfoList": null,
+          "__typename": "FlightInfoPayload"
+        }
+      ]
+    }
+  ]
+}

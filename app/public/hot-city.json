@@ -1,0 +1,989 @@
+[
+  {
+    "airport": " Nicolau Lobato International Airport",
+    "city": "Dili",
+    "cityCode": "DIL",
+    "cityName": "帝力",
+    "country": "Timor Leste (East Timor)"
+  },
+  {
+    "airport": " Sultan Ismail International",
+    "city": "Johor Bahru",
+    "cityCode": "JHB",
+    "cityName": "新山",
+    "country": "Malaysia"
+  },
+  {
+    "airport": "Sao Paulo",
+    "city": "Sao Paulo",
+    "cityCode": "SAO",
+    "cityName": "圣保罗",
+    "country": "Brazil"
+  },
+  {
+    "airport": "Tawau",
+    "city": "Tawau",
+    "cityCode": "TWU",
+    "cityName": "斗湖",
+    "country": "Malaysia"
+  },
+  {
+    "airport": "Perth International",
+    "city": "Perth International",
+    "cityCode": "PER",
+    "cityName": "珀斯",
+    "country": "Australia"
+  },
+  {
+    "airport": " Macau International Airport",
+    "city": "Macau",
+    "cityCode": "MFM",
+    "cityName": "澳门",
+    "country": "Macau, China SAR"
+  },
+  {
+    "airport": " Mactan-Cebu International",
+    "city": "Cebu City",
+    "cityCode": "CEB",
+    "cityName": "宿务",
+    "country": "Philippines"
+  },
+  {
+    "airport": " Juanda",
+    "city": "Surabaya",
+    "cityCode": "SUB",
+    "cityName": "泗水",
+    "country": "Indonesia"
+  },
+  {
+    "airport": "Milan",
+    "city": "Milan",
+    "cityCode": "MIL",
+    "cityName": "米兰",
+    "country": "Italy"
+  },
+  {
+    "airport": "Rome",
+    "city": "Rome",
+    "cityCode": "ROM",
+    "cityName": "罗马",
+    "country": "Italy"
+  },
+  {
+    "airport": "Malaga",
+    "city": "Malaga",
+    "cityCode": "AGP",
+    "cityName": "马拉加",
+    "country": "Spain"
+  },
+  {
+    "airport": "Harbin (Haerbin)",
+    "city": "Harbin (Haerbin)",
+    "cityCode": "HRB",
+    "cityName": "哈尔滨",
+    "country": "Heilongjiang, PR China"
+  },
+  {
+    "airport": "Xiamen",
+    "city": "Xiamen",
+    "cityCode": "XMN",
+    "cityName": "厦门",
+    "country": "Fujian, PR China"
+  },
+  {
+    "airport": " Amsterdam Airport Schiphol",
+    "city": "Amsterdam",
+    "cityCode": "AMS",
+    "cityName": "阿姆斯特丹",
+    "country": "Netherlands"
+  },
+  {
+    "airport": "Catania",
+    "city": "Catania",
+    "cityCode": "CTA",
+    "cityName": "卡塔尼亚",
+    "country": "Italy"
+  },
+  {
+    "airport": "Phuket",
+    "city": "Phuket",
+    "cityCode": "HKT",
+    "cityName": "普吉岛",
+    "country": "Thailand"
+  },
+  {
+    "airport": " Indira Gandhi International Airport",
+    "city": "Delhi",
+    "cityCode": "DEL",
+    "cityName": "德里",
+    "country": "India"
+  },
+  {
+    "airport": " International Airport (HKIA)",
+    "city": "Hong Kong",
+    "cityCode": "HKG",
+    "cityName": "香港",
+    "country": "Hong Kong"
+  },
+  {
+    "airport": " Kotoka International Airport",
+    "city": "Accra",
+    "cityCode": "ACC",
+    "cityName": "阿克拉",
+    "country": "Ghana"
+  },
+  {
+    "airport": " Baiyun International Airport",
+    "city": "Guangzhou (Canton) ",
+    "cityCode": "CAN",
+    "cityName": "广州",
+    "country": "Guangdong, PR China"
+  },
+  {
+    "airport": " Bahrain International Airport",
+    "city": "Bahrain",
+    "cityCode": "BAH",
+    "cityName": "巴林",
+    "country": "Bahrain"
+  },
+  {
+    "airport": "Chicago (IL)",
+    "city": "Chicago (IL)",
+    "cityCode": "CHI",
+    "cityName": "芝加哥",
+    "country": "USA"
+  },
+  {
+    "airport": "London Metropolitan Area",
+    "city": "London Metropolitan Area",
+    "cityCode": "LON",
+    "cityName": "伦敦",
+    "country": "United Kingdom"
+  },
+  {
+    "airport": " Jiangbei International Airport",
+    "city": "Chongqing",
+    "cityCode": "CKG",
+    "cityName": "重庆",
+    "country": "Sichuan, PR China"
+  },
+  {
+    "airport": " Wattay",
+    "city": "Vientiane",
+    "cityCode": "VTE",
+    "cityName": "万象",
+    "country": "Lao PDR"
+  },
+  {
+    "airport": "Labuan",
+    "city": "Labuan",
+    "cityCode": "LBU",
+    "cityName": "拉布安",
+    "country": "Malaysia"
+  },
+  {
+    "airport": " Václav Havel Airport (formerly Ruzyne)",
+    "city": "Prague",
+    "cityCode": "PRG",
+    "cityName": "布拉格",
+    "country": "Czech Republic"
+  },
+  {
+    "airport": " Novo Alexeyevka",
+    "city": "Tbilisi",
+    "cityCode": "TBS",
+    "cityName": "第比利斯",
+    "country": "Georgia"
+  },
+  {
+    "airport": "Hangchow (Hangzhou)",
+    "city": "Hangchow (Hangzhou)",
+    "cityCode": "HGH",
+    "cityName": "杭州",
+    "country": "Zhejiang, PR China"
+  },
+  {
+    "airport": " Brussels Airport",
+    "city": "Brussels",
+    "cityCode": "BRU",
+    "cityName": "布鲁塞尔",
+    "country": "Belgium"
+  },
+  {
+    "airport": " Sydney Airport",
+    "city": "Sydney",
+    "cityCode": "SYD",
+    "cityName": "悉尼",
+    "country": "Australia"
+  },
+  {
+    "airport": "Nanning",
+    "city": "Nanning",
+    "cityCode": "NNG",
+    "cityName": "南宁",
+    "country": "Guangxi, PR China"
+  },
+  {
+    "airport": " Cairo International Airport",
+    "city": "Cairo",
+    "cityCode": "CAI",
+    "cityName": "开罗",
+    "country": "Egypt"
+  },
+  {
+    "airport": "Sibu",
+    "city": "Sibu",
+    "cityCode": "SBW",
+    "cityName": "泗务",
+    "country": "Malaysia"
+  },
+  {
+    "airport": " Changi",
+    "city": "Singapore",
+    "cityCode": "SIN",
+    "cityName": "新加坡",
+    "country": "Singapore"
+  },
+  {
+    "airport": " Edinburgh Airport",
+    "city": "Edinburgh",
+    "cityCode": "EDI",
+    "cityName": "爱丁堡",
+    "country": "Scotland, UK"
+  },
+  {
+    "airport": " Frankfurt Airport (Rhein-Main-Flughafen)",
+    "city": "Frankfurt/Main",
+    "cityCode": "FRA",
+    "cityName": "法兰克福",
+    "country": "Germany"
+  },
+  {
+    "airport": " Chhatrapati Shivaji International",
+    "city": "Bombay (Mumbai) ",
+    "cityCode": "BOM",
+    "cityName": "孟买",
+    "country": "India"
+  },
+  {
+    "airport": " Dubai International Airport",
+    "city": "Dubai",
+    "cityCode": "DXB",
+    "cityName": "迪拜",
+    "country": "United Arab Emirates"
+  },
+  {
+    "airport": " Doha International Airport",
+    "city": "Doha",
+    "cityCode": "DOH",
+    "cityName": "多哈",
+    "country": "Qatar"
+  },
+  {
+    "airport": " Franz Josef Strauss",
+    "city": "Muenchen (Munich) ",
+    "cityCode": "MUC",
+    "cityName": "慕尼黑",
+    "country": "Germany"
+  },
+  {
+    "airport": "Las Vegas (NV)",
+    "city": "Las Vegas (NV)",
+    "cityCode": "LAS",
+    "cityName": "拉斯维加斯",
+    "country": "USA"
+  },
+  {
+    "airport": " Düsseldorf International Airport",
+    "city": "Duesseldorf",
+    "cityCode": "DUS",
+    "cityName": "杜塞尔多夫",
+    "country": "Germany"
+  },
+  {
+    "airport": " Auckland International Airport",
+    "city": "Auckland",
+    "cityCode": "AKL",
+    "cityName": "奥克兰",
+    "country": "New Zealand"
+  },
+  {
+    "airport": "Darwin",
+    "city": "Darwin",
+    "cityCode": "DRW",
+    "cityName": "达尔文",
+    "country": "Australia"
+  },
+  {
+    "airport": " Netaji Subhas Chandra",
+    "city": "Calcutta (Kolkata) ",
+    "cityCode": "CCU",
+    "cityName": "加尔各答",
+    "country": "India"
+  },
+  {
+    "airport": " Netaji Subhas Chandra",
+    "city": "Kolkata (Calcutta) ",
+    "cityCode": "CCU",
+    "cityName": "加尔各答",
+    "country": "India"
+  },
+  {
+    "airport": " Dublin International Airport",
+    "city": "Dublin",
+    "cityCode": "DUB",
+    "cityName": "都柏林",
+    "country": "Ireland"
+  },
+  {
+    "airport": "Penang International",
+    "city": "Penang International",
+    "cityCode": "PEN",
+    "cityName": "槟城",
+    "country": "Malaysia"
+  },
+  {
+    "airport": " Istanbul Atatürk Airport",
+    "city": "Istanbul",
+    "cityCode": "IST",
+    "cityName": "伊斯坦布尔",
+    "country": "Turkey"
+  },
+  {
+    "airport": "Berlin",
+    "city": "Berlin",
+    "cityCode": "BER",
+    "cityName": "柏林",
+    "country": "Germany"
+  },
+  {
+    "airport": "Brisbane",
+    "city": "Brisbane",
+    "cityCode": "BNE",
+    "cityName": "布里斯班",
+    "country": "Australia"
+  },
+  {
+    "airport": " Chiang Kai Shek",
+    "city": "Taipei",
+    "cityCode": "TPE",
+    "cityName": "台北",
+    "country": "Taiwan"
+  },
+  {
+    "airport": " Noi Bai International Airport",
+    "city": "Hanoi",
+    "cityCode": "HAN",
+    "cityName": "河内",
+    "country": "Vietnam"
+  },
+  {
+    "airport": "Quincy (IL)",
+    "city": "Quincy (IL)",
+    "cityCode": "UIN",
+    "cityName": "昆西",
+    "country": "USA"
+  },
+  {
+    "airport": " Jackson Field",
+    "city": "Port Moresby",
+    "cityCode": "POM",
+    "cityName": "泊特莫尔斯比港",
+    "country": "Papua New Guinea"
+  },
+  {
+    "airport": " Austin",
+    "city": "Austin (TX) ",
+    "cityCode": "AUS",
+    "cityName": "奥斯汀",
+    "country": "USA"
+  },
+  {
+    "airport": "Makung",
+    "city": "Makung",
+    "cityCode": "MZG",
+    "cityName": "马公",
+    "country": "Taiwan"
+  },
+  {
+    "airport": " Tribhuvan International Airport",
+    "city": "Kathmandu",
+    "cityCode": "KTM",
+    "cityName": "加德满都",
+    "country": "Nepal"
+  },
+  {
+    "airport": " Chiang Mai International Airport",
+    "city": "Chiang Mai",
+    "cityCode": "CNX",
+    "cityName": "清迈",
+    "country": "Thailand"
+  },
+  {
+    "airport": " J Chavez International",
+    "city": "Lima",
+    "cityCode": "LIM",
+    "cityName": "利马",
+    "country": "Peru"
+  },
+  {
+    "airport": " International Airport, SA",
+    "city": "San Francisco",
+    "cityCode": "SFO",
+    "cityName": "旧金山",
+    "country": "USA"
+  },
+  {
+    "airport": " Frédéric Chopin",
+    "city": "Warsaw",
+    "cityCode": "WAW",
+    "cityName": "华沙",
+    "country": "Poland"
+  },
+  {
+    "airport": " International Airport",
+    "city": "Kuala Lumpur",
+    "cityCode": "KUL",
+    "cityName": "吉隆坡",
+    "country": "Malaysia"
+  },
+  {
+    "airport": "Paris",
+    "city": "Paris",
+    "cityCode": "PAR",
+    "cityName": "巴黎",
+    "country": "France"
+  },
+  {
+    "airport": " Mexico City International Airport",
+    "city": "Mexico City",
+    "cityCode": "MEX",
+    "cityName": "墨西哥城",
+    "country": "Mexico"
+  },
+  {
+    "airport": " Juarez International",
+    "city": "Mexico City",
+    "cityCode": "MEX",
+    "cityName": "墨西哥城",
+    "country": "Mexico"
+  },
+  {
+    "airport": "Bangalore",
+    "city": "Bangalore",
+    "cityCode": "BLR",
+    "cityName": "班加罗尔",
+    "country": "India"
+  },
+  {
+    "airport": "Cork",
+    "city": "Cork",
+    "cityCode": "ORK",
+    "cityName": "科克",
+    "country": "Ireland"
+  },
+  {
+    "airport": "Tianjin",
+    "city": "Tianjin",
+    "cityCode": "TSN",
+    "cityName": "天津",
+    "country": "China"
+  },
+  {
+    "airport": " Zia International Airport",
+    "city": "Dhaka",
+    "cityCode": "DAC",
+    "cityName": "达卡",
+    "country": "Bangladesh"
+  },
+  {
+    "airport": " Velana International Airport",
+    "city": "Male",
+    "cityCode": "MLE",
+    "cityName": "马累",
+    "country": "Maledives"
+  },
+  {
+    "airport": "Udon Thani",
+    "city": "Udon Thani",
+    "cityCode": "UTH",
+    "cityName": "乌隆",
+    "country": "Thailand"
+  },
+  {
+    "airport": "Thiruvananthapuram",
+    "city": "Thiruvananthapuram",
+    "cityCode": "TRV",
+    "cityName": "提鲁瓦南萨普拉姆",
+    "country": "India"
+  },
+  {
+    "airport": "Toronto",
+    "city": "Toronto",
+    "cityCode": "YTO",
+    "cityName": "多伦多",
+    "country": "Canada"
+  },
+  {
+    "airport": " Ben Gurion International",
+    "city": "Tel Aviv",
+    "cityCode": "TLV",
+    "cityName": "特拉维夫",
+    "country": "Israel"
+  },
+  {
+    "airport": "Kota Kinabalu",
+    "city": "Kota Kinabalu",
+    "cityCode": "BKI",
+    "cityName": "哥打京那巴鲁",
+    "country": "Malaysia"
+  },
+  {
+    "airport": " Elefthérios Venizélos International Airport",
+    "city": "Athens",
+    "cityCode": "ATH",
+    "cityName": "雅典",
+    "country": "Greece"
+  },
+  {
+    "airport": "Bangkok, Suvarnabhumi International",
+    "city": "Bangkok, Suvarnabhumi International",
+    "cityCode": "BKK",
+    "cityName": "曼谷",
+    "country": "Thailand"
+  },
+  {
+    "airport": "Fukuoka",
+    "city": "Fukuoka",
+    "cityCode": "FUK",
+    "cityName": "福冈",
+    "country": "Japan"
+  },
+  {
+    "airport": "New York (NY)",
+    "city": "New York (NY)",
+    "cityCode": "NYC",
+    "cityName": "纽约",
+    "country": "USA"
+  },
+  {
+    "airport": " King Abdulaziz International",
+    "city": "Jeddah ",
+    "cityCode": "JED",
+    "cityName": "吉达",
+    "country": "Saudi Arabia"
+  },
+  {
+    "airport": " Melbourne Airport (Tullamarine)",
+    "city": "Melbourne",
+    "cityCode": "MEL",
+    "cityName": "墨尔本",
+    "country": "Australia"
+  },
+  {
+    "airport": " Mingaladon",
+    "city": "Rangoon (Yangon) ",
+    "cityCode": "RGN",
+    "cityName": "仰光",
+    "country": "Myanmar"
+  },
+  {
+    "airport": " Mingaladon",
+    "city": "Yangon (Rangoon)",
+    "cityCode": "RGN",
+    "cityName": "仰光",
+    "country": "Myanmar"
+  },
+  {
+    "airport": " Denver International Airport",
+    "city": "Denver (CO) ",
+    "cityCode": "DEN",
+    "cityName": "丹佛",
+    "country": "USA"
+  },
+  {
+    "airport": " Pochentong",
+    "city": "Phnom Penh",
+    "cityCode": "PNH",
+    "cityName": "金边",
+    "country": "Cambodia"
+  },
+  {
+    "airport": "Amritsar",
+    "city": "Amritsar",
+    "cityCode": "ATQ",
+    "cityName": "阿姆利则",
+    "country": "India"
+  },
+  {
+    "airport": " OR Tambo International Airport",
+    "city": "Johannesburg",
+    "cityCode": "JNB",
+    "cityName": "约翰内斯堡",
+    "country": "South Africa"
+  },
+  {
+    "airport": "Hatyai (Hat Yai)",
+    "city": "Hatyai (Hat Yai)",
+    "cityCode": "HDY",
+    "cityName": "合艾",
+    "country": "Thailand"
+  },
+  {
+    "airport": "Pittsburgh International Airport (PA)",
+    "city": "Pittsburgh International Airport (PA)",
+    "cityCode": "PIT",
+    "cityName": "匹兹堡",
+    "country": "USA"
+  },
+  {
+    "airport": "Utapao (Pattaya)",
+    "city": "Utapao (Pattaya)",
+    "cityCode": "UTP",
+    "cityName": "乌塔帕奥",
+    "country": "Thailand"
+  },
+  {
+    "airport": "Nürnberg (Nuremberg)",
+    "city": "Nürnberg (Nuremberg)",
+    "cityCode": "NUE",
+    "cityName": "纽伦堡",
+    "country": "Germany"
+  },
+  {
+    "airport": " Metropolitan Area",
+    "city": "Monrovia",
+    "cityCode": "MLW",
+    "cityName": "蒙罗维亚",
+    "country": "Liberia"
+  },
+  {
+    "airport": "Adelaide",
+    "city": "Adelaide",
+    "cityCode": "ADL",
+    "cityName": "阿德莱德",
+    "country": "Australia"
+  },
+  {
+    "airport": "Osaka, Metropolitan Area",
+    "city": "Osaka, Metropolitan Area",
+    "cityCode": "OSA",
+    "cityName": "大阪",
+    "country": "Japan"
+  },
+  {
+    "airport": " Metropolitan Area",
+    "city": "Moscow",
+    "cityCode": "MOW",
+    "cityName": "莫斯科",
+    "country": "Russia"
+  },
+  {
+    "airport": " Cape Town International Airport",
+    "city": "Cape Town",
+    "cityCode": "CPT",
+    "cityName": "开普敦",
+    "country": "South Africa"
+  },
+  {
+    "airport": " Metropolitan Area",
+    "city": "Jakarta",
+    "cityCode": "JKT",
+    "cityName": "雅加达",
+    "country": "Indonesia"
+  },
+  {
+    "airport": " General Edward Lawrence Logan",
+    "city": "Boston (MA) ",
+    "cityCode": "BOS",
+    "cityName": "波士顿",
+    "country": "USA"
+  },
+  {
+    "airport": "Denpasar/Bali",
+    "city": "Denpasar/Bali",
+    "cityCode": "DPS",
+    "cityName": "登巴萨",
+    "country": "Indonesia"
+  },
+  {
+    "airport": " Lyon-Saint Exupéry Airport ",
+    "city": "Lyon",
+    "cityCode": "LYS",
+    "cityName": "里昂",
+    "country": "France"
+  },
+  {
+    "airport": " Shuangliu",
+    "city": "Chengdu ",
+    "cityCode": "CTU",
+    "cityName": "成都",
+    "country": "Sichuan, PR China"
+  },
+  {
+    "airport": "Houston (TX) , Hobby",
+    "city": "Houston (TX) , Hobby",
+    "cityCode": "HOU",
+    "cityName": "休斯敦",
+    "country": "USA"
+  },
+  {
+    "airport": "Barcelona",
+    "city": "Barcelona",
+    "cityCode": "BCN",
+    "cityName": "巴塞罗那",
+    "country": "Spain"
+  },
+  {
+    "airport": " Mohammad Bin Abdulaziz",
+    "city": "Madinah (Medina) ",
+    "cityCode": "MED",
+    "cityName": "麦迪纳",
+    "country": "Saudi Arabia"
+  },
+  {
+    "airport": "Medina",
+    "city": "Medina",
+    "cityCode": "MED",
+    "cityName": "麦迪纳",
+    "country": "Saudi Arabia"
+  },
+  {
+    "airport": " Buyant Uhaa Airport",
+    "city": "Ulaanbaatar",
+    "cityCode": "ULN",
+    "cityName": "乌兰巴托",
+    "country": "Mongolia"
+  },
+  {
+    "airport": "Manchester",
+    "city": "Manchester",
+    "cityCode": "MAN",
+    "cityName": "曼彻斯特",
+    "country": "United Kingdom"
+  },
+  {
+    "airport": " Kimpo",
+    "city": "Seoul",
+    "cityCode": "SEL",
+    "cityName": "首尔",
+    "country": "South Korea"
+  },
+  {
+    "airport": " Vancouver International",
+    "city": "Vancouver",
+    "cityCode": "YVR",
+    "cityName": "温哥华",
+    "country": "Canada"
+  },
+  {
+    "airport": " Tan Son Nhat International",
+    "city": "Ho Chi Minh City (Saigon) ",
+    "cityCode": "SGN",
+    "cityName": "胡志明市",
+    "country": "Viet Nam"
+  },
+  {
+    "airport": " Tan Son Nhat International",
+    "city": "Saigon (Ho Chi Minh City) ",
+    "cityCode": "SGN",
+    "cityName": "胡志明市",
+    "country": "Viet Nam"
+  },
+  {
+    "airport": " Muang Ubon Airport",
+    "city": "Ubon Ratchathani ",
+    "cityCode": "UBP",
+    "cityName": "乌汶（乌汶叻差他尼）",
+    "country": "Thailand"
+  },
+  {
+    "airport": "Winnipeg International",
+    "city": "Winnipeg International",
+    "cityCode": "YWG",
+    "cityName": "温尼伯",
+    "country": "Canada"
+  },
+  {
+    "airport": "Miri",
+    "city": "Miri",
+    "cityCode": "MYY",
+    "cityName": "米里",
+    "country": "Malaysia"
+  },
+  {
+    "airport": "Tiruchirapally",
+    "city": "Tiruchirapally",
+    "cityCode": "TRZ",
+    "cityName": "蒂鲁吉拉伯利",
+    "country": "India"
+  },
+  {
+    "airport": "Kuching",
+    "city": "Kuching",
+    "cityCode": "KCH",
+    "cityName": "古晋",
+    "country": "Malaysia"
+  },
+  {
+    "airport": " Cleveland Hopkins International",
+    "city": "Cleveland (OH) ",
+    "cityCode": "CLE",
+    "cityName": "克里夫兰",
+    "country": "USA"
+  },
+  {
+    "airport": " Kloten",
+    "city": "Zurich (Zürich) ",
+    "cityCode": "ZRH",
+    "cityName": "苏黎世",
+    "country": "Switzerland"
+  },
+  {
+    "airport": " International",
+    "city": "Los Angeles (CA) ",
+    "cityCode": "LAX",
+    "cityName": "洛杉矶",
+    "country": "USA"
+  },
+  {
+    "airport": "Langkawi (islands)",
+    "city": "Langkawi (islands)",
+    "cityCode": "LGK",
+    "cityName": "兰卡威",
+    "country": "Malaysia"
+  },
+  {
+    "airport": "Nairobi",
+    "city": "Nairobi",
+    "cityCode": "NBO",
+    "cityName": "内罗毕",
+    "country": "Kenya"
+  },
+  {
+    "airport": " Komaki AFB",
+    "city": "Nagoya ",
+    "cityCode": "NGO",
+    "cityName": "名古屋",
+    "country": "Japan"
+  },
+  {
+    "airport": " Ninoy Aquino International",
+    "city": "Manila",
+    "cityCode": "MNL",
+    "cityName": "马尼拉",
+    "country": "Philippines"
+  },
+  {
+    "airport": "Bintulu",
+    "city": "Bintulu",
+    "cityCode": "BTU",
+    "cityName": "民都鲁",
+    "country": "Malaysia"
+  },
+  {
+    "airport": " Bandaranaike International Airport",
+    "city": "Colombo",
+    "cityCode": "CMB",
+    "cityName": "科伦坡",
+    "country": "Sri Lanka"
+  },
+  {
+    "airport": " Barajas Airport",
+    "city": "Madrid",
+    "cityCode": "MAD",
+    "cityName": "马德里",
+    "country": "Spain"
+  },
+  {
+    "airport": "Tokyo",
+    "city": "Tokyo",
+    "cityCode": "TYO",
+    "cityName": "东京",
+    "country": "Japan"
+  },
+  {
+    "airport": " Hongqiao",
+    "city": "Shanghai",
+    "cityCode": "SHA",
+    "cityName": "上海",
+    "country": "China"
+  },
+  {
+    "airport": "Guam",
+    "city": "Guam",
+    "cityCode": "GUM",
+    "cityName": "关岛",
+    "country": "Guam"
+  },
+  {
+    "airport": " Guam International Airport",
+    "city": "Hagåtña",
+    "cityCode": "GUM",
+    "cityName": "关岛",
+    "country": "Guam"
+  },
+  {
+    "airport": "Kuantan",
+    "city": "Kuantan",
+    "cityCode": "KUA",
+    "cityName": "关丹",
+    "country": "Malaysia"
+  },
+  {
+    "airport": " Abu Dhabi International",
+    "city": "Abu Dhabi",
+    "cityCode": "AUH",
+    "cityName": "阿布扎比",
+    "country": "United Arab Emirates"
+  },
+  {
+    "airport": "Nakhon Si Thammarat",
+    "city": "Nakhon Si Thammarat",
+    "cityCode": "NST",
+    "cityName": "洛坤",
+    "country": "Thailand"
+  },
+  {
+    "airport": "Chennai (Madras)",
+    "city": "Chennai (Madras)",
+    "cityCode": "MAA",
+    "cityName": "金奈",
+    "country": "India"
+  },
+  {
+    "airport": " Chennai International Airport",
+    "city": "Madras (Chennai) ",
+    "cityCode": "MAA",
+    "cityName": "金奈",
+    "country": "India"
+  },
+  {
+    "airport": " Birmingham International Airport",
+    "city": "Birmingham",
+    "cityCode": "BHX",
+    "cityName": "伯明翰",
+    "country": "United Kingdom"
+  },
+  {
+    "airport": "Regina",
+    "city": "Regina",
+    "cityCode": "YQR",
+    "cityName": "里贾纳",
+    "country": "Canada"
+  },
+  {
+    "airport": "Seattle/Tacoma (WA)",
+    "city": "Seattle/Tacoma (WA)",
+    "cityCode": "SEA",
+    "cityName": "西雅图",
+    "country": "USA"
+  },
+  {
+    "airport": " Almaty International Airport",
+    "city": "Almaty (Alma Ata) ",
+    "cityCode": "ALA",
+    "cityName": "阿拉木图",
+    "country": "Kazakhstan"
+  }
+]
